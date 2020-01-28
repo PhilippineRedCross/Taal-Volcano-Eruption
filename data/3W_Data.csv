@@ -1,0 +1,431 @@
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+1;PRC;Relief;Food Items;350 mL Bottled Water;421;42113;;Finished;100;families
+2;PRC;Relief;Food Items;350 mL Bottled Water;421;42119;;Finished;129;families
+3;PRC;Relief;Food Items;350 mL Bottled Water;421;42120;;Finished;136;families
+4;PRC;Relief;Food Items;6L Water;434;43402;;Finished;138;families
+5;PRC;Relief;Food Items;6L Water;434;43404;;Finished;35;families
+6;PRC;Relief;Food Items;6L Water;434;43404;;Finished;108;families
+7;PRC;Relief;Food Items;6L Water;434;43405;;Finished;14;families
+8;PRC;Relief;Food Items;6L Water;434;43405;;Finished;31;families
+9;PRC;Health;Safety;Ambulance Transport;421;42101;;Finished;2;individuals
+10;PRC;Health;Safety;Ambulance Transport;410;41005;;Finished;1;individual
+11;PRC;Health;Safety;Ambulance Transport;410;41005;;Finished;1;individual
+12;PRC;Health;Safety;Ambulance Transport;410;41005;;Finished;2;individuals
+13;PRC;Health;Safety;Ambulance Transport;410;41005;;Finished;1;individual
+14;PRC;Health;Safety;Ambulance Transport;410;41005;;Finished;1;individual
+15;PRC;Health;Safety;Ambulance Transport;410;41005;;Finished;1;individual
+16;PRC;Health;Safety;Ambulance Transport;410;41005;;Finished;1;individual
+17;PRC;Health;Safety;Ambulance Transport;410;41005;;Finished;2;individuals
+18;PRC;Health;Safety;Ambulance Transport;410;41006;;Finished;1;individual
+19;PRC;Health;Safety;Ambulance Transport;410;41006;;Finished;2;individuals
+20;PRC;Health;Safety;Ambulance Transport;410;41006;;Finished;1;individual
+21;PRC;Health;Safety;Ambulance Transport;410;41014;;Finished;1;individual
+22;PRC;Health;Safety;Ambulance Transport;410;41014;;Finished;1;individual
+23;PRC;Health;Safety;Ambulance Transport;410;41014;;Finished;1;individual
+24;PRC;Health;Safety;Ambulance Transport;410;41014;;Finished;1;individual
+25;PRC;Health;Safety;Ambulance Transport;410;41017;;Finished;1;individual
+26;PRC;Health;Safety;Ambulance Transport;410;41024;;Finished;1;individual
+27;PRC;Health;Safety;Ambulance Transport;410;41028;;Finished;1;individual
+28;PRC;Health;Safety;Ambulance Transport;421;42119;;Finished;1;individual
+29;PRC;Health;Safety;Ambulance Transport;421;42119;;Finished;3;individuals
+30;PRC;SRR;Rescue;Assisted;410;60402;;Finished;3;individuals
+31;PRC;SRR;Rescue;Assisted;410;60402;;Finished;9;individuals
+32;PRC;SRR;Rescue;Assisted;410;60402;;Finished;13;individuals
+33;PRC;SRR;Rescue;Assisted;410;60402;;Finished;8;individuals
+34;PRC;SRR;Rescue;Assisted;410;41026;Banaba;Finished;98;individuals
+35;PRC;SRR;Rescue;Assisted;410;41005;;Finished;65;individuals
+36;PRC;SRR;Rescue;Assisted;410;41011;;Finished;71;individuals
+37;PRC;SRR;Rescue;Assisted;410;41018;;Finished;67;individuals
+38;PRC;SRR;Rescue;Assisted;410;41018;;Finished;18;individuals
+39;PRC;SRR;Rescue;Assisted;410;41029;;Finished;41;individuals
+40;PRC;SRR;Rescue;Assisted;410;41030;;Finished;72;individuals
+41;PRC;SRR;Rescue;Assisted;410;41031;;Finished;10;individuals
+42;PRC;SRR;Rescue;Assisted;410;41031;;Finished;16;individuals
+43;PRC;SRR;Rescue;Assisted;410;41031;;Finished;3;individuals
+44;PRC;Health;Safety;Blood Pressure;421;42101;;Finished;5;individuals
+45;PRC;Health;Safety;Blood Pressure;410;41003;;Finished;4;individuals
+46;PRC;Health;Safety;Blood Pressure;410;41005;;Finished;1;individual
+47;PRC;Health;Safety;Blood Pressure;410;41005;;Finished;1;individual
+48;PRC;Health;Safety;Blood Pressure;410;41005;;Finished;19;individuals
+49;PRC;Health;Safety;Blood Pressure;410;41005;;Finished;8;individuals
+50;PRC;Health;Safety;Blood Pressure;410;41005;;Finished;8;individuals
+51;PRC;Health;Safety;Blood Pressure;410;41005;;Finished;19;individuals
+52;PRC;Health;Safety;Blood Pressure;410;41005;;Finished;14;individuals
+53;PRC;Health;Safety;Blood Pressure;410;41005;;Finished;10;individuals
+54;PRC;Health;Safety;Blood Pressure;410;41006;;Finished;1;individual
+55;PRC;Health;Safety;Blood Pressure;410;41007;;Finished;13;individuals
+56;PRC;Health;Safety;Blood Pressure;410;41007;;Finished;13;individuals
+57;PRC;Health;Safety;Blood Pressure;410;41007;;Finished;21;individuals
+58;PRC;Health;Safety;Blood Pressure;410;41014;;Finished;9;individuals
+59;PRC;Health;Safety;Blood Pressure;410;41014;;Finished;2;individuals
+60;PRC;Health;Safety;Blood Pressure;410;41014;;Finished;9;individuals
+61;PRC;Health;Safety;Blood Pressure;410;41014;;Finished;2;individuals
+62;PRC;Health;Safety;Blood Pressure;410;41017;;Finished;14;individuals
+63;PRC;Health;Safety;Blood Pressure;410;41024;;Finished;8;individuals
+64;PRC;Health;Safety;Blood Pressure;410;41024;;Finished;18;individuals
+65;PRC;Health;Safety;Blood Pressure;410;41024;;Finished;8;individuals
+66;PRC;Health;Safety;Blood Pressure;410;41024;;Finished;3;individuals
+67;PRC;Health;Safety;Blood Pressure;421;42119;;Finished;41;individuals
+68;PRC;Health;Safety;Blood Pressure;421;42119;;Finished;41;individuals
+69;PRC;Health;Safety;Blood Pressure;421;42120;;Finished;25;individuals
+70;PRC;Health;Safety;Blood Pressure;421;42120;;Finished;5;individuals
+71;PRC;Health;Safety;Blood Pressure;421;42120;;Finished;25;individuals
+72;PRC;Relief;Food Items;Bottled Water;434;43404;;Finished;35;families
+73;PRC;Welfare;Ready-to-Eat;Bread;421;42101;Matagbak;Finished;456;individuals
+74;PRC;Welfare;Ready-to-Eat;Bread;421;42101;;Finished;1128;individuals
+75;PRC;Welfare;Ready-to-Eat;Bread;421;42101;;Finished;140;individuals
+76;PRC;Welfare;Ready-to-Eat;Bread;410;41005;Balete;Finished;115;individuals
+77;PRC;Welfare;Ready-to-Eat;Bread;434;43402;Bitin;Finished;414;individuals
+78;PRC;Welfare;Ready-to-Eat;Bread;434;43404;San Luis;Finished;105;individuals
+79;PRC;Welfare;Ready-to-Eat;Bread;434;43405;Mabato;Finished;70;individuals
+80;PRC;Welfare;Ready-to-Eat;Bread;434;43405;Tres Poblacion;Finished;31;individuals
+81;PRC;Welfare;Ready-to-Eat;Bread;410;41008;;Finished;1000;individuals
+82;PRC;Welfare;Ready-to-Eat;Bread;410;41008;Balibago;Finished;14;individuals
+83;PRC;Welfare;Ready-to-Eat;Bread;410;41008;Encarnacion;Finished;33;individuals
+84;PRC;Welfare;Ready-to-Eat;Bread;410;41008;Enrique Zobel;Finished;47;individuals
+85;PRC;Welfare;Ready-to-Eat;Bread;421;42123;Castaños Lejos;Finished;100;individuals
+86;PRC;Welfare;Ready-to-Eat;Bread;421;42113;Pantihan 4;Finished;161;individuals
+87;PRC;Welfare;Ready-to-Eat;Bread;410;41018;;Finished;219;individuals
+88;PRC;Welfare;Ready-to-Eat;Bread;410;41018;;Finished;145;individuals
+89;PRC;Welfare;Ready-to-Eat;Bread;410;41018;;Finished;145;individuals
+90;PRC;Welfare;Ready-to-Eat;Bread;421;42114;;Finished;300;individuals
+91;PRC;Welfare;Ready-to-Eat;Bread;410;41031;;Finished;690;packs
+92;PRC;Welfare;Ready-to-Eat;Bread;410;41031;;Finished;312;individuals
+93;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Batangas Sports Complex;Finished;64;individuals
+94;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;18;individuals
+95;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Batangas Sports Complex;Finished;157;individuals
+96;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Batangas Sports Complex;Finished;28;individuals
+97;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Balete ES;Finished;41;individuals
+98;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;167;individuals
+99;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;47;individuals
+100;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Banaba East ES;Finished;51;individuals
+101;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Banaba West ES;Finished;30;individuals
+102;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Banaba Central;Finished;44;individuals
+103;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Batangas Sports Complex;Finished;200;individuals
+104;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;37;individuals
+105;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;37;individuals
+106;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;66;individuals
+107;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;120;individuals
+108;PRC;Welfare;PSS;Child Friendly Activity;410;41006;;Finished;83;individuals
+109;PRC;Welfare;PSS;Child Friendly Activity;410;41006;Bauan Tech NHS;Finished;51;individuals
+110;PRC;Welfare;PSS;Child Friendly Activity;434;43402;Bitin ES;Finished;33;individuals
+111;PRC;Welfare;PSS;Child Friendly Activity;434;43402;;Finished;19;individuals
+112;PRC;Welfare;PSS;Child Friendly Activity;410;41007;;Finished;83;individuals
+113;PRC;Welfare;PSS;Child Friendly Activity;434;43405;Tres Poblacion Brgy Hall;Finished;17;individuals
+114;PRC;Welfare;PSS;Child Friendly Activity;434;43405;Bunggo;Finished;17;individuals
+115;PRC;Welfare;PSS;Child Friendly Activity;434;43406;Limao;Finished;34;individuals
+116;PRC;Welfare;PSS;Child Friendly Activity;434;43406;Paliparan;Finished;20;individuals
+117;PRC;Welfare;PSS;Child Friendly Activity;410;41014;;Finished;90;individuals
+118;PRC;Welfare;PSS;Child Friendly Activity;410;41014;Inosluban Marawoy;Finished;216;individuals
+119;PRC;Welfare;PSS;Child Friendly Activity;410;41014;;Finished;111;individuals
+120;PRC;Welfare;PSS;Child Friendly Activity;410;41014;"Mataas na Kahoy ES
+";Finished;81;individuals
+121;PRC;Welfare;PSS;Child Friendly Activity;410;41014;Malvar CS;Finished;51;individuals
+122;PRC;Welfare;PSS;Child Friendly Activity;410;41014;;Finished;40;individuals
+123;PRC;Welfare;PSS;Child Friendly Activity;410;41017;Malvar Central School;Finished;124;individuals
+124;PRC;Welfare;PSS;Child Friendly Activity;410;41024;;Finished;47;individuals
+125;PRC;Welfare;PSS;Child Friendly Activity;434;43426;;Finished;10;individuals
+126;PRC;Welfare;PSS;Child Friendly Activity;410;41028;Sto Tomas Rescue Base;Finished;34;individuals
+127;PRC;Welfare;PSS;Child Friendly Activity;410;41031;Bernardo Lirio Memorial ES;Finished;23;individuals
+128;PRC;Welfare;PSS;Child Friendly Activity;410;41031;Poblacion 6;Finished;43;individuals
+129;PRC;Welfare;PSS;Child Friendly Activity;410;41031;Poblacion 5;Finished;32;individuals
+130;PRC;Welfare;PSS;Child Friendly Activity;434;;Cabuyao;Finished;17;individuals
+131;PRC;Health;Safety;First Aid ;421;42101;;Finished;1;individual
+132;PRC;Health;Safety;First Aid ;410;41003;;Finished;5;individuals
+133;PRC;Health;Safety;First Aid ;410;60402;;Finished;1;individual
+134;PRC;Health;Safety;First Aid ;410;41005;;Finished;1;individual
+135;PRC;Health;Safety;First Aid ;410;41005;;Finished;1;individual
+136;PRC;Health;Safety;First Aid ;410;41005;;Finished;2;individuals
+137;PRC;Health;Safety;First Aid ;410;41005;;Finished;14;individuals
+138;PRC;Health;Safety;First Aid ;410;41014;;Finished;2;individuals
+139;PRC;Health;Safety;First Aid ;410;41018;;Finished;1;individual
+140;PRC;Health;Safety;First Aid ;410;41022;;Finished;1;individual
+141;PRC;Health;Safety;First Aid Station;410;41019;;Finished;1;individual
+142;PRC;Health;Safety;First Aid Station;410;41022;Banaybanay;Finished;1;individual
+143;PRC;Health;Safety;First Aid Station;410;41022;;Finished;1;individual
+144;PRC;Health;Safety;First Aid Station;421;42119;;Finished;1;individual
+145;PRC;Health;Safety;First Aid Station;410;41031;;Finished;1;individual
+146;PRC;Health;Safety;First Aid Station;410;41031;;Finished;1;individual
+147;PRC;Health;Safety;First Aid Station;434;;;Finished;1;individual
+148;PRC;Relief;Food Items;Food Items (Assorted);434;43405;;Finished;108;families
+149;PRC;Relief;Food Items;Food Items (Assorted);434;43405;;Finished;14;families
+150;PRC;Relief;Food Items;Food Items (Assorted);421;42113;;Finished;100;families
+151;PRC;Relief;Food Items;Food Items (Assorted);434;43426;;Finished;19;families
+152;PRC;Relief;Food Items;Food Items (Assorted);421;42119;;Finished;129;families
+153;PRC;Relief;Food Items;Food Items (Assorted);421;42120;;Finished;136;families
+154;PRC;Relief;Food Items;Food Items (Standard);434;43406;Limao;Finished;129;families
+155;PRC;Relief;Food Items;Food Items (Standard);434;43406;Paliparan;Finished;31;families
+156;PRC;Relief;Food Items;Food Items (Standard);421;42105;;Finished;9;families
+157;PRC;Relief;Food Items;Food Items (Standard);421;42106;;Finished;15;families
+158;PRC;Relief;Food Items;Food Items (Standard);421;42106;;Finished;9;families
+159;PRC;Relief;Food Items;Food Items (Standard);421;42106;;Finished;3;families
+160;PRC;Relief;Food Items;Food Items (Standard);421;42106;;Finished;35;families
+161;PRC;Relief;Food Items;Food Items (Standard);421;42108;;Finished;10;families
+162;PRC;Relief;Food Items;Food Items (Standard);421;42108;;Finished;2;families
+163;PRC;Relief;Food Items;Food Items (Standard);421;42108;;Finished;54;families
+164;PRC;Relief;Food Items;Food Items (Standard);421;42108;;Finished;1;family
+165;PRC;Relief;Food Items;Food Items (Standard);421;42113;;Finished;288;families
+166;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;5;families
+167;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;36;families
+168;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;4;families
+169;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;9;families
+170;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;37;families
+171;PRC;Relief;Food Items;Food Items (Standard);421;42122;;Finished;79;families
+172;PRC;Welfare;Ready-to-Eat;Ham;410;41031;Poblacion Brgy 6;Finished;690;families
+173;PRC;Health;Health;Health Consultation;410;41002;;Finished;47;individuals
+174;PRC;Health;Health;Health Consultation;410;41005;;Finished;184;individuals
+175;PRC;Health;Health;Health Consultation;410;41006;;Finished;12;individuals
+176;PRC;Health;Health;Health Consultation;410;41018;;Finished;300;individuals
+177;PRC;Health;Health;Heath Teaching;410;41005;;Finished;9;individuals
+178;PRC;Health;Health;Heath Teaching;410;41005;;Finished;33;individuals
+179;PRC;Health;Health;Heath Teaching;410;41006;;Finished;12;individuals
+180;PRC;Health;Health;Heath Teaching;410;41006;;Finished;206;individuals
+181;PRC;Health;Health;Heath Teaching;410;41007;;Finished;142;individuals
+182;PRC;Health;Health;Heath Teaching;410;41017;;Finished;104;individuals
+183;PRC;Health;Health;Heath Teaching;410;41018;;Finished;84;individuals
+184;PRC;Health;Health;Heath Teaching;410;41024;;Finished;57;individuals
+185;PRC;Health;Health;Heath Teaching;410;41031;;Finished;28;individuals
+186;PRC;Health;Health;Heath Teaching;410;;;Finished;20;individuals
+187;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41003;;Finished;180;individuals
+188;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;210;individuals
+189;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;157;individuals
+190;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;198;individuals
+191;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;212;individuals
+192;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;250;individuals
+193;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;1020;individuals
+194;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;San Isidro;Finished;550;individuals
+195;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Ambulong;Finished;450;individuals
+196;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Libjo;Finished;700;individuals
+197;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Cuta;Finished;1500;individuals
+198;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Wawa;Finished;200;individuals
+199;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;466;individuals
+200;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;200;individuals
+201;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41006;;Finished;1,324;individuals
+202;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41006;Manghinao;Finished;314;individuals
+203;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41006;As-Is;Finished;376;individuals
+204;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41006;;Finished;73;individuals
+205;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41008;;Finished;189;individuals
+206;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41008;;Finished;797;individuals
+207;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41008;;Finished;250;individuals
+208;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41008;;Finished;250;individuals
+209;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41014;;Finished;200;individuals
+210;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41014;;Finished;203;individuals
+211;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41014;;Finished;216;individuals
+212;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41017;;Finished;202;individuals
+213;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41024;;Finished;213;individuals
+214;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41028;;Finished;461;individuals
+215;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41028;;Finished;273;individuals
+216;PRC;Welfare;Ready-to-Eat;Hotmeals;421;42119;;Finished;600;individuals
+217;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;;Finished;400;individuals
+218;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;;Finished;312;individuals
+219;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;;Finished;550;individuals
+220;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;;Finished;203;individuals
+221;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;;Finished;270;individuals
+222;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;Poblacion 6;Finished;695;individuals
+223;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42105;Brgy.39;Finished;9;families
+224;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42106;Remedios Brgy.Salitran 2;Finished;15;families
+225;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42106;Cresta Bonita, Brgy.Salitran;Finished;9;families
+226;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42106;Ivory Crest, Brgy.Salitran;Finished;3;families
+227;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42106;Brgy.San Simon;Finished;35;families
+228;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42108;Antel Grand Village;Finished;10;families
+229;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42108;Tsarina Subdivision Brgy.Mangahan;Finished;2;families
+230;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42108;Brgy.Buenavista;Finished;54;families
+231;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42108;Brgy.Pasong Kawayan;Finished;1;family
+232;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42113;"Brgy.pinagsanhan A and B
+Pantihan 1,2,3 and 4";Finished;288;families
+233;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);410;41018;Mataas na Kahoy NHS;Finished;145;families
+234;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Balite;Finished;5;families
+235;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Pulong Saguing ;Finished;36;families
+236;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Biawan;Finished;4;families
+237;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Mylene;Finished;9;families
+238;PRC;Relief;Non-Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Pulong Bunga;Finished;37;families
+239;PRC;Relief;Non-Food Items;Hygiene Kit (Standard);410;41005;Mataas na Kahoy NHS;Finished;818;families
+240;PRC;Relief;Non-Food Items;Hygiene Kit (Standard);410;41005;Mataas na Kahoy NHS;Finished;12;families
+241;PRC;Relief;Non-Food Items;Hygiene Kit (Standard);410;41028;Mataas na Kahoy NHS;Finished;152;families
+242;PRC;WASH;WASH;Hygiene Promotion;410;41005;;Finished;9;individuals
+243;PRC;WASH;WASH;Hygiene Promotion;410;41005;;Finished;33;individuals
+244;PRC;WASH;WASH;Hygiene Promotion;410;41005;;Finished;84;individuals
+245;PRC;WASH;WASH;Hygiene Promotion;410;41006;;Finished;168;individuals
+246;PRC;WASH;WASH;Hygiene Promotion;434;43402;;Finished;34;individuals
+247;PRC;WASH;WASH;Hygiene Promotion;434;43404;;Finished;35;individuals
+248;PRC;WASH;WASH;Hygiene Promotion;410;41017;;Finished;104;individuals
+249;PRC;WASH;WASH;Hygiene Promotion;410;41017;;Finished;48;individuals
+250;PRC;WASH;WASH;Hygiene Promotion;410;41017;;Finished;204;individuals
+251;PRC;WASH;WASH;Hygiene Promotion;410;41017;;Finished;139;individuals
+252;PRC;WASH;WASH;Hygiene Promotion;410;41018;;Finished;84;individuals
+253;PRC;WASH;WASH;Hygiene Promotion;410;41018;;Finished;20;individuals
+254;PRC;WASH;WASH;Hygiene Promotion;410;41018;;Finished;165;individuals
+255;PRC;WASH;WASH;Hygiene Promotion;410;41031;;Finished;32;individuals
+256;PRC;WASH;WASH;Hygiene Promotion;410;41031;;Finished;28;individuals
+257;PRC;WASH;WASH;Hygiene Promotion;410;41031;;Finished;28;individuals
+258;PRC;Welfare;Welfare;I'm Alive;410;41003;;Finished;286;individuals
+259;PRC;Welfare;Welfare;I'm Alive;410;41005;;Finished;297;individuals
+260;PRC;Welfare;Welfare;I'm Alive;410;41005;;Finished;305;individuals
+261;PRC;Welfare;Welfare;I'm Alive;410;41005;;Finished;144;individuals
+262;PRC;Welfare;Welfare;I'm Alive;410;41005;;Finished;324;individuals
+263;PRC;Welfare;Welfare;I'm Alive;410;41005;;Finished;184;individuals
+264;PRC;Welfare;Welfare;I'm Alive;410;41005;;Finished;155;individuals
+265;PRC;Welfare;Welfare;I'm Alive;410;41005;;Finished;165;individuals
+266;PRC;Welfare;Welfare;I'm Alive;410;41005;;Finished;156;individuals
+267;PRC;Welfare;Welfare;I'm Alive;410;41006;;Finished;1398;individuals
+268;PRC;Welfare;Welfare;I'm Alive;410;41006;;Finished;929;individuals
+269;PRC;Welfare;Welfare;I'm Alive;410;41006;;Finished;210;individuals
+270;PRC;Welfare;Welfare;I'm Alive;410;41006;;Finished;167;individuals
+271;PRC;Welfare;Welfare;I'm Alive;410;41009;;Finished;29;individuals
+272;PRC;Welfare;Welfare;I'm Alive;410;41017;;Finished;447;individuals
+273;PRC;Welfare;Welfare;I'm Alive;410;41017;;Finished;745;individuals
+274;PRC;Welfare;Welfare;I'm Alive;410;41017;;Finished;1;individual
+275;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;511;individuals
+276;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;1193;individuals
+277;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;66;individuals
+278;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;511;individuals
+279;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;115;individuals
+280;PRC;Welfare;Welfare;I'm Alive;410;41024;;Finished;157;individuals
+281;PRC;Welfare;Welfare;I'm Alive;410;41028;;Finished;100;individuals
+282;PRC;Welfare;Welfare;I'm Alive;410;41031;;Finished;474;individuals
+283;PRC;Welfare;Welfare;I'm Alive;410;41031;;Finished;469;individuals
+284;PRC;Welfare;Welfare;I'm Alive;410;41031;;Finished;89;individuals
+285;PRC;Welfare;Welfare;I'm Alive;410;41031;;Finished;935;individuals
+286;PRC;Welfare;Welfare;I'm Alive;410;41031;Poblacion 6;Finished;310;individuals
+287;PRC;Welfare;Welfare;I'm Alive;410;41031;Poblacion 5;Finished;201;individuals
+288;PRC;Health;Health;Mask ( Surgical/Disposable);421;42101;;Finished;500;individuals
+289;PRC;Health;Health;Mask ( Surgical/Disposable);410;41003;;Finished;204;individuals
+290;PRC;Health;Health;Mask ( Surgical/Disposable);410;41005;;Finished;314;individuals
+291;PRC;Health;Health;Mask ( Surgical/Disposable);410;41005;;Finished;686;individuals
+292;PRC;Health;Health;Mask ( Surgical/Disposable);410;41005;;Finished;48;individuals
+293;PRC;Health;Health;Mask ( Surgical/Disposable);410;41005;Dream Zone;Finished;44;individuals
+294;PRC;Health;Health;Mask ( Surgical/Disposable);410;41005;;Finished;104;individuals
+295;PRC;Health;Health;Mask ( Surgical/Disposable);410;41006;;Finished;1538;individuals
+296;PRC;Health;Health;Mask ( Surgical/Disposable);410;41006;;Finished;20;individuals
+297;PRC;Health;Health;Mask ( Surgical/Disposable);410;41014;;Finished;528;individuals
+298;PRC;Health;Health;Mask ( Surgical/Disposable);410;41017;;Finished;314;individuals
+299;PRC;Health;Health;Mask ( Surgical/Disposable);410;41028;;Finished;56;individuals
+300;PRC;Health;Health;Mask ( Surgical/Disposable);421;42119;;Finished;700;individuals
+301;PRC;Health;Health;Mask ( Surgical/Disposable);421;42119;;Finished;600;individuals
+302;PRC;Health;Health;Mask ( Surgical/Disposable);421;42119;;Finished;900;individuals
+303;PRC;Health;Health;Mask ( Surgical/Disposable);421;;;Finished;38;individuals
+304;PRC;Health;Health;Mask (N95);421;42101;;Finished;415;individuals
+305;PRC;Health;Health;Mask (N95);434;42118;;Finished;24;individuals
+306;PRC;WASH;WASH;Portable Toilets;410;41002;Alitagtag Mun. Court;Finished;5;unit
+307;PRC;WASH;WASH;Portable Toilets;410;41003;Balayan West Cental School;Finished;5;unit
+308;PRC;WASH;WASH;Portable Toilets;410;41005;Batangas Sports Complex;Finished;8;unit
+309;PRC;WASH;WASH;Portable Toilets;410;41005;Dream Zone;Finished;6;unit
+310;PRC;WASH;WASH;Portable Toilets;410;41006;Manghinao 1 Elem. School;Finished;5;unit
+311;PRC;WASH;WASH;Portable Toilets;410;41007;Calaca Central School;Finished;10;unit
+312;PRC;Welfare;PSS;Psychosocial First Aid;410;41003;;Finished;296;individuals
+313;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;297;individuals
+314;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;165;individuals
+315;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;17;individuals
+316;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;325;individuals
+317;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;150;individuals
+318;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;94;individuals
+319;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;324;individuals
+320;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;177;individuals
+321;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;184;individuals
+322;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;6;individuals
+323;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;17;individuals
+324;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;156;individuals
+325;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;66;individuals
+326;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;1218;individuals
+327;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;1398;individuals
+328;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;5;individuals
+329;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;940;individuals
+330;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;45;individuals
+331;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;115;individuals
+332;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;575;individuals
+333;PRC;Welfare;PSS;Psychosocial First Aid;434;43402;;Finished;33;individuals
+334;PRC;Welfare;PSS;Psychosocial First Aid;434;43404;;Finished;17;individuals
+335;PRC;Welfare;PSS;Psychosocial First Aid;410;41007;;Finished;41;individuals
+336;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;7;individuals
+337;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;11;individuals
+338;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;12;individuals
+339;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;15;individuals
+340;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;21;individuals
+341;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;8;individuals
+342;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;12;individuals
+343;PRC;Welfare;PSS;Psychosocial First Aid;434;43406;;Finished;10;individuals
+344;PRC;Welfare;PSS;Psychosocial First Aid;434;43406;Limao;Finished;20;individuals
+345;PRC;Welfare;PSS;Psychosocial First Aid;434;43406;Paliparan;Finished;8;individuals
+346;PRC;Welfare;PSS;Psychosocial First Aid;410;41009;;Finished;29;individuals
+347;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;167;individuals
+348;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;210;individuals
+349;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;12;individuals
+350;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;447;individuals
+351;PRC;Welfare;PSS;Psychosocial First Aid;410;41017;;Finished;37;individuals
+352;PRC;Welfare;PSS;Psychosocial First Aid;410;41017;;Finished;772;individuals
+353;PRC;Welfare;PSS;Psychosocial First Aid;410;41024;Calumpang;Finished;172;individuals
+354;PRC;Welfare;PSS;Psychosocial First Aid;434;43424;;Finished;103;individuals
+355;PRC;Welfare;PSS;Psychosocial First Aid;434;43426;;Finished;15;individuals
+356;PRC;Welfare;PSS;Psychosocial First Aid;410;41028;;Finished;152;individuals
+357;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;;Finished;474;individuals
+358;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;;Finished;935;individuals
+359;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;;Finished;89;individuals
+360;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;;Finished;343;individuals
+361;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;;Finished;242;individuals
+362;PRC;Welfare;Welfare;Referral;410;;;Finished;1;individual
+363;PRC;Welfare;Welfare;Referral;410;;;Finished;1;individual
+364;PRC;Welfare;Welfare;Referral;410;;;Finished;1;individual
+365;PRC;Welfare;Welfare;Referral;410;;;Finished;1;individual
+366;PRC;Welfare;Welfare;Referral;410;;;Finished;3;individuals
+367;PRC;Welfare;Welfare;Referral;410;;;Finished;1;individual
+368;PRC;Welfare;Welfare;Referral;410;;;Finished;2;individuals
+369;IFRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41005;;Finished;966;families
+370;PRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41006;;Finished;818;families
+371;PRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41008;;Finished;28;families
+372;PRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41008;;Finished;66;families
+373;PRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41008;;Finished;94;families
+374;PRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41008;;Finished;14;families
+375;PRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41008;;Finished;33;families
+376;PRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41008;;Finished;47;families
+377;PRC;Relief;Non Food Item;Sleeping Kit (Blankets);410;41028;;Finished;155;families
+378;IFRC;Relief;Non Food Item;Sleeping Kit (Mosquito Nets);410;41005;;Finished;966;families
+379;IFRC;Relief;Non Food Item;Sleeping Kit (Mosquito Nets);410;41005;;Finished;966;families
+380;PRC;Relief;Non Food Item;Sleeping Kit (Mosquito Nets);410;41006;;Finished;818;families
+381;PRC;Relief;Non Food Item;Sleeping Kit (Mosquito Nets);410;41028;;Finished;155;families
+382;PRC;Relief;Non Food Item;Sleeping Kit (Plastic Mats);410;41006;;Finished;818;families
+383;PRC;Relief;Non Food Item;Sleeping Kit (Plastic Mats);410;41028;;Finished;155;families
+384;PRC;Relief;Non Food Item;Towel;410;41008;;Finished;70;families
+385;PRC;Relief;Non Food Item;Towel;410;41008;;Finished;165;families
+386;PRC;Relief;Non Food Item;Towel;410;41008;;Finished;235;families
+387;PRC;Relief;Non Food Item;Towel;410;41008;;Finished;14;families
+388;PRC;Relief;Non Food Item;Towel;410;41008;;Finished;33;families
+389;PRC;Relief;Non Food Item;Towel;410;41008;;Finished;47;families
+390;PRC;Welfare;Welfare;Tracing;410;60402;;Finished;1;individual
+391;PRC;Welfare;Welfare;Tracing;410;60402;;Finished;1;individual
+392;PRC;Welfare;Welfare;Tracing;410;41005;;Finished;7;individuals
+393;PRC;Welfare;Welfare;Tracing;410;41005;;Finished;7;individuals
+394;PRC;Welfare;Welfare;Tracing;410;41012;;Finished;1;individual
+395;PRC;Welfare;Welfare;Tracing;410;41012;;Finished;1;individual
+396;PRC;Welfare;Welfare;Tracing;410;41024;Calumpang;Finished;1;individual
+397;PRC;Welfare;Welfare;Tracing;410;41029;;Finished;1;individual
+398;PRC;Welfare;Welfare;Tracing;410;41029;;Finished;1;individual
+399;PRC;Welfare;Welfare;Tracing;410;41030;;Finished;2;individuals
+400;PRC;Welfare;Welfare;Tracing;410;41030;;Finished;2;individuals
+401;PRC;WASH;WASH;Water;410;41003;Balayan East CS;Finished;100;liters
+402;PRC;WASH;WASH;Water;410;41003;;Finished;2950;liters
+403;PRC;WASH;WASH;Water;410;41005;Batangas City Sports Complex;Finished;500;liters
+404;PRC;WASH;WASH;Water;410;41005;Batangas City Sports Complex;Finished;1825;liters
+405;PRC;WASH;WASH;Water;410;41005;Batangas City Sports Complex;Finished;1075;liters
+406;PRC;WASH;WASH;Water;410;41005;Batangas City Sports Complex;Finished;200;liters
+407;PRC;WASH;WASH;Water;410;41005;;Finished;2000;liters
+408;PRC;WASH;WASH;Water;410;41005;;Finished;350;liters
+409;PRC;WASH;WASH;Water;410;41005;;Finished;294;liters
+410;PRC;WASH;WASH;Water;410;41005;;Finished;1423;liters
+411;PRC;WASH;WASH;Water;410;41006;Nauan Tech HS;Finished;200;liters
+412;PRC;WASH;WASH;Water;410;41007;;Finished;2000;liters
+413;PRC;WASH;WASH;Water;410;41018;;Finished;1500;liters
+414;PRC;WASH;WASH;Water;410;41019;Looc ES;Finished;450;liters
+415;PRC;WASH;WASH;Water;410;41019;;Finished;1275;liters
+416;PRC;WASH;WASH;Water;410;41019;;Finished;400;liters
+417;PRC;WASH;WASH;Water;410;41021;Rosario ECS;Finished;500;liters
+418;PRC;WASH;WASH;Water;410;41026;San Pascual ES;Finished;1000;liters
+419;PRC;WASH;WASH;Water;410;41028;Sto Tomas Rescue Base;Finished;170;liters
+420;PRC;WASH;WASH;Water;410;;Balayan West ;Finished;50;liters
+421;PRC;WASH;WASH;Water;410;;Malalay ES;Finished;725;liters
+422;PRC;WASH;WASH;Water;410;;Lucban ES;Finished;500;liters
+423;PRC;WASH;WASH;Water;410;;Pingkian ES;Finished;250;liters
+424;PRC;WASH;WASH;Water;410;;Tala NHS;Finished;650;liters
+425;PRC;WASH;WASH;Water;410;;Nasugbu East ;Finished;100;liters
+426;PRC;WASH;WASH;Water;410;;Nasugbu East ;Finished;2800;liters
+427;PRC;WASH;WASH;Water;410;;Rosarion WCS;Finished;1000;liters
+428;PRC;WASH;WASH;Water;410;;Quilid San Roque ES;Finished;400;liters
