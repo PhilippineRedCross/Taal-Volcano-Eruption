@@ -1,7 +1,7 @@
 // SET VARIABLES FOR THIS Dashboard
 
 var config_Title = 'Taal Volcano Eruption';
-var config_LastUpdate = '28 January 2020';
+var config_LastUpdate = '23 September 2020';
 
 var config_author = 'Elaine Manzon';
 var config_email = 'elaine.manzon@redcross.org.ph';
