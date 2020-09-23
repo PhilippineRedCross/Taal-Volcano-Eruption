@@ -1,0 +1,2255 @@
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+9;PRC;Logistics;Emergency Response Unit;6x6 Truck;410;41005;Kumintang Ibaba;Finished;1;unit
+10;PRC;Logistics;Emergency Response Unit;Advanced Command Post;410;41005;Kumintang Ibaba;Finished;1;unit
+16;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;1;individual
+19;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;1;individual
+20;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;1;individual
+21;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;1;individual
+23;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;1;individual
+26;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;1;individual
+28;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;1;individual
+29;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;1;individual
+30;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;1;individual
+32;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;1;individual
+33;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;1;individual
+34;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;1;individual
+35;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;1;individual
+37;PRC;Health;Safety;Ambulance Transport;410;41010;Malainin;Finished;1;individual
+38;PRC;Health;Safety;Ambulance Transport;410;41010;Talaibon;Finished;1;individual
+39;PRC;Health;Safety;Ambulance Transport;410;41010;Malainin;Finished;1;individual
+40;PRC;Health;Safety;Ambulance Transport;410;41010;Malainin;Finished;1;individual
+41;PRC;Health;Safety;Ambulance Transport;410;41010;Talaibon;Finished;1;individual
+42;PRC;Health;Safety;Ambulance Transport;410;41012;Armahan;Finished;1;individual
+43;PRC;Health;Safety;Ambulance Transport;410;41014;Tagbakin;Finished;1;individual
+44;PRC;Health;Safety;Ambulance Transport;410;41014;Marawoy;Finished;1;individual
+45;PRC;Health;Safety;Ambulance Transport;410;41014;Marawoy;Finished;1;individual
+46;PRC;Health;Safety;Ambulance Transport;410;41014;Marawoy;Finished;1;individual
+47;PRC;Health;Safety;Ambulance Transport;410;41014;Marawoy;Finished;1;individual
+48;PRC;Health;Safety;Ambulance Transport;410;41019;;Finished;1;individual
+49;PRC;Health;Safety;Ambulance Transport;410;41019;;Finished;1;individual
+50;PRC;Health;Safety;Ambulance Transport;410;41019;;Finished;1;individual
+51;PRC;Health;Safety;Ambulance Transport;410;41024;Calumpang East;Finished;1;individual
+52;PRC;Health;Safety;Ambulance Transport;410;41028;;Finished;1;individual
+53;PRC;Health;Safety;Ambulance Transport;410;41030;Tumaway;Finished;1;individual
+54;PRC;Health;Safety;Ambulance Transport;410;41031;;Finished;1;individual
+74;PRC;Health;Safety;Blood Pressure Taking;410;41005;Poblacion;Finished;1;individuals
+77;PRC;Health;Safety;Blood Pressure Taking;410;41005;Bolbok;Finished;1;individuals
+92;PRC;Health;Safety;Blood Pressure Taking;410;41026;;Finished;1;individuals
+93;PRC;Health;Safety;Blood Pressure Taking;410;41028;;Finished;1;individuals
+95;PRC;Health;Safety;Blood Pressure Taking;410;41030;Tumaway;Finished;1;individuals
+100;PRC;Health;Safety;Blood Pressure Taking;410;41030;Tumaway;Finished;1;individuals
+103;PRC;Health;Safety;Blood Pressure Taking;410;41031;;Finished;1;individuals
+235;ECHO;Shelter;Shelter;Construction of Community Kitchen;410;41030;Tumaway;Finished;1;evacuation center
+236;ECHO;Shelter;Shelter;Emergency Tents;410;41030;Malainin;Finished;1;evacuation center
+241;PRC;Health;Safety;First Aid;410;41002;San Jose;Finished;1;individuals
+242;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;1;individuals
+243;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;1;individuals
+247;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;1;individuals
+255;PRC;Health;Safety;First Aid;410;41010;Talaibon;Finished;1;individuals
+256;PRC;Health;Safety;First Aid;410;41012;Arumahan;Finished;1;individuals
+257;PRC;Health;Safety;First Aid;410;41013;Poblacion 1;Finished;1;individuals
+258;PRC;Health;Safety;First Aid;410;41014;Marawoy;Finished;1;individuals
+260;PRC;Health;Safety;First Aid;410;41018;;Finished;1;individuals
+261;PRC;Health;Safety;First Aid;410;41019;;Finished;1;individuals
+262;PRC;Health;Safety;First Aid;410;41019;;Finished;1;individuals
+263;PRC;Health;Safety;First Aid;410;41028;;Finished;1;individuals
+264;PRC;Health;Safety;First Aid;410;41028;;Finished;1;individuals
+265;PRC;Health;Safety;First Aid;410;41030;Tumaway;Finished;1;individuals
+266;PRC;Health;Safety;First Aid;410;41030;Tumaway;Finished;1;individuals
+267;PRC;Health;Safety;First Aid;410;41031;Pob 6;Finished;1;individuals
+268;PRC;Health;Safety;First Aid Station;410;41003;;Finished;1;unit
+273;PRC;Health;Safety;First Aid Station;410;41005;Kumintang Ibaba;Finished;1;unit
+274;PRC;Health;Safety;First Aid Station;410;41005;;Finished;1;unit
+275;PRC;Health;Safety;First Aid Station;410;41005;Kumintang Ibaba;Finished;1;unit
+276;PRC;Health;Safety;First Aid Station;410;41005;Bolbok;Finished;1;unit
+277;PRC;Health;Safety;First Aid Station;410;41005;;Finished;1;unit
+278;PRC;Health;Safety;First Aid Station;410;41005;Bolbok;Finished;1;unit
+279;PRC;Health;Safety;First Aid Station;410;41005;Bolbok;Finished;1;unit
+280;PRC;Health;Safety;First Aid Station;410;41005;Bolbok;Finished;1;unit
+281;PRC;Health;Safety;First Aid Station;410;41005;Bolbok;Finished;1;unit
+284;PRC;Health;Safety;First Aid Station;410;41006;Poblacion;Finished;1;unit
+285;PRC;Health;Safety;First Aid Station;410;41006;Poblacion;Finished;1;unit
+286;PRC;Health;Safety;First Aid Station;410;41006;Poblacion;Finished;1;unit
+287;PRC;Health;Safety;First Aid Station;410;41006;Poblacion;Finished;1;unit
+288;PRC;Health;Safety;First Aid Station;410;41007;Poblacion 2;Finished;1;unit
+289;PRC;Health;Safety;First Aid Station;410;41007;;Finished;1;unit
+290;PRC;Health;Safety;First Aid Station;410;41008;;Finished;1;unit
+291;PRC;Health;Safety;First Aid Station;410;41012;Arumahan;Finished;1;unit
+292;PRC;Health;Safety;First Aid Station;410;41013;Poblacion 1;Finished;1;unit
+294;PRC;Health;Safety;First Aid Station;410;41014;Marawoy;Finished;1;unit
+295;PRC;Health;Safety;First Aid Station;410;41014;;Finished;1;unit
+296;PRC;Health;Safety;First Aid Station;410;41014;Marawoy;Finished;1;unit
+297;PRC;Health;Safety;First Aid Station;410;41014;;Finished;1;unit
+299;PRC;Health;Safety;First Aid Station;410;41019;;Finished;1;unit
+300;PRC;Health;Safety;First Aid Station;410;41019;;Finished;1;unit
+301;PRC;Health;Safety;First Aid Station;410;41019;;Finished;1;unit
+302;PRC;Health;Safety;First Aid Station;410;41024;Calumpang East;Finished;1;unit
+303;PRC;Health;Safety;First Aid Station;410;41024;Calumpang East;Finished;1;unit
+304;PRC;Health;Safety;First Aid Station;410;41028;;Finished;1;unit
+305;PRC;Health;Safety;First Aid Station;410;41028;;Finished;1;unit
+306;PRC;Health;Safety;First Aid Station;410;41028;;Finished;1;unit
+307;PRC;Health;Safety;First Aid Station;410;41031;;Finished;1;unit
+308;PRC;Health;Safety;First Aid Station;410;41031;;Finished;1;unit
+309;PRC;Health;Safety;First Aid Station;410;41031;;Finished;1;unit
+310;PRC;Health;Safety;First Aid Station;410;41031;;Finished;1;unit
+311;PRC;Health;Safety;First Aid Station;410;41034;;Finished;1;unit
+405;PRC;Relief;Food Items;Food Items (Standard);421;42108;;Finished;1;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42108;Brgy.Pasong Kawayan;Finished;1;families
+;IFRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41001;Subic Ilaya;Finished;1;families
+;;WASH;Non Food Items;Jerry Can (10L);410;41001;Subic Ilaya;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Pansipit;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Poblacion;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;San Jacinto;Finished;1;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Pansipit;Finished;1;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Poblacion;Finished;1;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;San Jacinto;Finished;1;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;60402;Calawit;Finished;1;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pulang Bato;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Poblacion;Finished;1;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pulang Bato;Finished;1;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Tagudtod;Finished;1;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pulang Bato;Finished;1;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Tagudtod;Finished;1;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Poblacion;Finished;1;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;San Isidro;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;San Isidro;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Tabla;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Banga;Finished;1;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;1;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;San Isidro;Finished;1;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Banga;Finished;1;families
+;PRC;WASH;WASH;Portable Toilets;410;41002;;Finished;1;evacuation center
+;PRC;WASH;WASH;Portable Toilets;410;41003;Balayan West Cental School;Finished;1;evacuation center
+;PRC;WASH;WASH;Portable Toilets;410;41005;Batangas Sports Complex;Finished;1;evacuation center
+;PRC;WASH;WASH;Portable Toilets;410;41005;Dream Zone;Finished;1;evacuation center
+;PRC;WASH;WASH;Portable Toilets;410;41006;Manghinao 1 Elem. School;Finished;1;evacuation center
+;PRC;WASH;WASH;Portable Toilets;410;41007;Calaca Central School;Finished;1;evacuation center
+;PRC;Welfare;Welfare;Psychosocial Consultation;410;41010;Talaibon;Finished;1;individual
+;PRC;Welfare;Welfare;Psychosocial Consultation;410;41010;Malainin;Finished;1;individual
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;1;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;1;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;Poblacion;Finished;1;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;1;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;1;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;1;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;1;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;1;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;1;individuals
+;IFRC;Relief;Non Food Items;Sleeping Kit (Blankets);410;41001;Subic Ilaya;Finished;1;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;41001;Subic Ilaya;Finished;1;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;41001;Subic Ilaya;Finished;1;families
+;PRC;Welfare;PSS;Tracing;410;41006;Poblacion;Finished;1;individuals
+;PRC;Welfare;PSS;Tracing;410;41024;Calumpang East;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Desk;410;41002;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41002;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41002;San Jose;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41002;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41003;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41003;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41003;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Kumintang Ibaba;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Balete;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Balate;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Kumintang Ibaba;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Kumintang Ibaba;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Kumintang Ibaba;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Kumintang Ibaba;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Kumintang Ibaba;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;Bolbok;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41005;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;As-Is;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;Balayong;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41006;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41007;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41007;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41008;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41008;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41008;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41009;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41010;Malainin;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41010;Malaya;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41012;Armahan;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41012;Arumahan;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;Tagbakin;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41014;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41017;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41017;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41018;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41018;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41018;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41018;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41018;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41019;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41019;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41019;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41019;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41020;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41021;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41021;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41022;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41024;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41024;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41026;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41026;San Antonio;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41028;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41028;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41028;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41028;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41028;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41029;Laguile;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41030;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;Poblacion 01;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;Pob 6;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;Pob 5;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;41031;Poblacion 3;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Desk;410;;;Finished;1;unit
+;PRC;Welfare;PSS;Welfare Referral;410;41005;Poblacion;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41005;Bolbok;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41005;;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41006;Poblacion;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41010;Malainin;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41010;Malainin;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41014;Marawoy;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41017;Poblacion;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41028;;Finished;1;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41028;;Finished;1;individuals
+12;PRC;Logistics;SAfety;Ambulance;421;;;Finished;2;units
+13;PRC;Logistics;Safety;Ambulance;434;;;Finished;2;units
+14;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;2;individual
+15;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;2;individual
+17;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;2;individual
+18;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;2;individuals
+22;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;2;individuals
+24;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;2;individuals
+25;PRC;Health;Safety;Ambulance Transport;410;41005;Bolbok;Finished;2;individuals
+27;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;2;individual
+31;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;2;individuals
+36;PRC;Health;Safety;Ambulance Transport;410;41006;Poblacion;Finished;2;individual
+55;PRC;Health;Safety;Ambulance Transport;410;41031;;Finished;2;individuals
+80;PRC;Health;Safety;Blood Pressure Taking;410;41010;Malainin;Finished;2;individuals
+85;PRC;Health;Safety;Blood Pressure Taking;410;41014;Marawoy;Finished;2;individuals
+244;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;2;individuals
+246;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;2;individuals
+248;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;2;individuals
+249;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;2;individuals
+259;PRC;Health;Safety;First Aid;410;41014;Marawoy;Finished;2;individuals
+403;PRC;Relief;Food Items;Food Items (Standard);421;42108;;Finished;2;families
+;PRC;Health;Health;Health Consultation;410;41010;Malainin;Finished;2;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42108;Tsarina Subdivision Brgy.Mangahan;Finished;2;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;2;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;2;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;2;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;2;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Coral na Munti;Finished;2;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Pamiga;Finished;2;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Sta. Cruz;Finished;2;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Coral na Munti;Finished;2;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Pamiga;Finished;2;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Sta. Cruz;Finished;2;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;60402;Calawit;Finished;2;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Munlawin;Finished;2;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Munlawin;Finished;2;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Alas-as;Finished;2;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Looc;Finished;2;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Balas;Finished;2;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Sampaloc;Finished;2;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Sampaloc;Finished;2;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Looc;Finished;2;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;2;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41022;;Finished;2;individuals
+56;PRC;SRR;Rescue;Assisted;410;60402;;Finished;3;individuals
+69;PRC;SRR;Rescue;Assisted;410;41031;;Finished;3;individuals
+76;PRC;Health;Safety;Blood Pressure Taking;410;41005;Kumintang Ibaba;Finished;3;individuals
+83;PRC;Health;Safety;Blood Pressure Taking;410;41010;Malainin;Finished;3;individuals
+90;PRC;Health;Safety;Blood Pressure Taking;410;41024;Calumpang East;Finished;3;individuals
+91;PRC;Health;Safety;Blood Pressure Taking;410;41026;San Antonio;Finished;3;individuals
+98;PRC;Health;Safety;Blood Pressure Taking;410;41030;Tumaway;Finished;3;individuals
+252;PRC;Health;Safety;First Aid;410;41006;Poblacion;Finished;3;individuals
+400;PRC;Relief;Food Items;Food Items (Standard);421;42106;;Finished;3;families
+414;UAE;Relief;Food Items;Food Items (Standard);410;41025;Poblacion;Finished;3;families
+;PRC;Health;Health;Health Consultation;410;41029;Laguile;Finished;3;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42106;Ivory Crest, Brgy.Salitran;Finished;3;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41030;Tumaway;Finished;3;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Subic Ibaba;Finished;3;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;3;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;3;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Subic Ibaba;Finished;3;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pulang Bato;Finished;3;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Zone 2;Finished;3;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Zone 2;Finished;3;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41003;;Finished;3;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;3;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;3;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;3;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;3;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;3;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;3;individuals
+;PRC;Logistics;Emergency Response Unit;Water Tanker;410;41005;Kumintang Ibaba;Finished;3;units
+;PRC;Welfare;PSS;Welfare Referral;410;41005;Bolbok;Finished;3;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41010;Malainin;Finished;3;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41010;Malainin;Finished;3;individuals
+251;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;4;individuals
+417;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;4;families
+;PRC;Health;Health;Health Referral;410;41010;Talaibon;Finished;4;individuals
+;PRC;Health;Health;Health Referral;410;41010;Malainin;Finished;4;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Biawan;Finished;4;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Subic Ilaya;Finished;4;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Subic Ilaya;Finished;4;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Tabla;Finished;4;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Tabla;Finished;4;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;4;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;4;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;4;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;4;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;4;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;4;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;4;individuals
+;ECHO - GRC;Welfare;Non Food Items;Read and Play Kit;410;41030;Tranca;Finished;4;individuals
+;IFRC;Education;Non Food Items;School Kit;410;41030;Tranca;Finished;4;individuals
+;PRC;Welfare;PSS;Tracing;410;41031;Darasa;Finished;4;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41010;Talaibon;Finished;4;individuals
+11;PRC;Logistics;Safety;Ambulance;410;41005;Kumintang Ibaba;Finished;5;units
+70;PRC;Health;Safety;Blood Pressure Taking;410;41002;San Jose;Finished;5;individuals
+99;PRC;Health;Safety;Blood Pressure Taking;410;41030;Tumaway;Finished;5;individuals
+253;PRC;Health;Safety;First Aid;410;41006;Poblacion;Finished;5;individuals
+415;PRC;Relief;Food Items;Food Items (Standard);421;42118;Balite;Finished;5;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Balite;Finished;5;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;5;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bagong sikat;Finished;5;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bagong sikat;Finished;5;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;60402;Calawit;Finished;5;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Maabud South;Finished;5;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Maabud South;Finished;5;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;5;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;5;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;5;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;5;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;5;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;5;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;5;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;5;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41010;Malainin;Finished;5;individuals
+82;PRC;Health;Safety;Blood Pressure Taking;410;41010;Malainin;Finished;6;individuals
+96;PRC;Health;Safety;Blood Pressure Taking;410;41030;Tumaway;Finished;6;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41002;;Finished;6;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;6;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;6;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Kumintang Ibaba;Finished;6;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;6;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;6;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;6;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;6;individuals
+87;PRC;Health;Safety;Blood Pressure Taking;410;41019;;Finished;7;individuals
+407;UAE;Relief;Food Items;Food Items (Standard);410;41010;Talaibon;Finished;7;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41022;;Finished;7;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pulang Bato;Finished;7;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;7;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;7;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;7;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;7;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tranca;Finished;7;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41006;Poblacion;Finished;7;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41010;Malainin;Finished;7;individuals
+59;PRC;SRR;Rescue;Assisted;410;60402;;Finished;8;individuals
+72;PRC;Health;Safety;Blood Pressure Taking;410;41005;Kumintang Ibaba;Finished;8;individuals
+73;PRC;Health;Safety;Blood Pressure Taking;410;41005;Bolbok;Finished;8;individuals
+89;PRC;Health;Safety;Blood Pressure Taking;410;41024;Calumpang East;Finished;8;individuals
+94;PRC;Health;Safety;Blood Pressure Taking;410;41028;;Finished;8;individuals
+237;ECHO, SRC;Shelter;Shelter;Family tent;410;41010;Malainin;Finished;8;units
+240;ECHO, SRC;Shelter;Shelter;Family tent;410;41010;Malainin;Finished;8;units
+358;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41023;Lipahan;Finished;8;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Coral na Munti;Finished;8;families
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;8;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43406;Paliparan;Finished;8;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;8;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;8;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;8;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tranca;Finished;8;individuals
+57;PRC;SRR;Rescue;Assisted;410;60402;;Finished;9;individuals
+84;PRC;Health;Safety;Blood Pressure Taking;410;41014;Marawoy;Finished;9;individuals
+170;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;9;individuals
+397;PRC;Relief;Food Items;Food Items (Standard);421;42105;39;Finished;9;families
+399;PRC;Relief;Food Items;Food Items (Standard);421;42106;;Finished;9;families
+418;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;9;families
+;PRC;Health;Health;Health Consultation;410;41030;Tumaway;Finished;9;individuals
+;PRC;Health;Health;Health Teaching;410;41005;Bolbok;Finished;9;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42105;Brgy.39;Finished;9;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42106;Cresta Bonita, Brgy.Salitran;Finished;9;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Mylene;Finished;9;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Bolbok;Finished;9;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Baluk-baluk;Finished;9;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Bancoro;Finished;9;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Baluk-baluk;Finished;9;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Bancoro;Finished;9;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Tabla;Finished;9;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;9;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;9;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;9;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;9;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;9;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;9;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41024;Poblacion 7;Finished;9;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Poblacion 6;Finished;9;individuals
+67;PRC;SRR;Rescue;Assisted;410;41031;;Finished;10;individuals
+75;PRC;Health;Safety;Blood Pressure Taking;410;41005;Bolbok;Finished;10;individuals
+97;PRC;Health;Safety;Blood Pressure Taking;410;41030;Tumaway;Finished;10;individuals
+101;PRC;Health;Safety;Blood Pressure Taking;410;41031;;Finished;10;individuals
+223;PRC;Welfare;PSS;Child Friendly Activity;434;43426;;Finished;10;individuals
+402;PRC;Relief;Food Items;Food Items (Standard);421;42108;;Finished;10;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42108;Antel Grand Village;Finished;10;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;10;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Bangin;Finished;10;families
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43406;;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tranca;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tranca;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Poblacion 6;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;10;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;10;individuals
+154;PRC;Welfare;PSS;Child Friendly Activity;410;41006;Poblacion;Finished;11;individuals
+345;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41013;Malaruhatan;Finished;11;individuals
+;PRC;Health;Health;Health Consultation;410;41010;Malainin;Finished;11;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Kumintang Ibaba;Finished;11;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41006;Poblacion;Finished;11;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Poblacion 6;Finished;11;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Poblacion 6;Finished;11;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;11;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Poblacion 6;Finished;11;individuals
+;PRC;Welfare;PSS;Welfare Referral;410;41006;Poblacion;Finished;11;individuals
+143;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;12;individuals
+153;PRC;Welfare;PSS;Child Friendly Activity;410;41006;Poblacion;Finished;12;individuals
+173;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;12;individuals
+178;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;12;individuals
+180;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;12;individuals
+198;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;12;individuals
+204;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;12;individuals
+254;PRC;Health;Safety;First Aid;410;41010;Malainin;Finished;12;individuals
+375;PRC;Relief;Food Items;Food Items (Assorted);410;41030;Tranca;Finished;12;individuals
+428;PRC;Health;Health;Health Consultation;410;41006;Poblacion;Finished;12;individuals
+;PRC;Health;Health;Health Consultation;410;41010;Talaibon;Finished;12;individuals
+;PRC;Health;Health;Health Teaching;410;41006;;Finished;12;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Talaibon;Finished;12;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Talaibon;Finished;12;individuals
+;ECHO;Relief;Non Food Items;Hygiene Kit (Standard);410;41030;Tranca;Finished;12;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41006;Poblacion;Finished;12;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;12;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;12;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tranca;Finished;12;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;60402;Sala;Finished;12;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;60402;Sala;Finished;12;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Alas-as;Finished;12;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Maabud North;Finished;12;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Maabud North;Finished;12;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Calawit;Finished;12;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Bignay Pulo;Finished;12;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Bignay Pulo;Finished;12;families
+;ECHO;Shelter;Shelter;Provision of Butane Gas;410;41030;Tranca;Finished;12;families
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;Mabato;Finished;12;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;12;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;12;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;12;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;12;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;12;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;12;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;12;individuals
+58;PRC;SRR;Rescue;Assisted;410;60402;;Finished;13;individuals
+81;PRC;Health;Safety;Blood Pressure Taking;410;41010;Talaibon;Finished;13;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41030;Tumaway;Finished;13;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41026;;Finished;13;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;13;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Kumintang Ibaba;Finished;13;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;13;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tranca;Finished;13;individuals
+7;PRC;Relief;Food Items;6L Water;434;43405;;Finished;14;families
+86;PRC;Health;Safety;Blood Pressure Taking;410;41017;Poblacion;Finished;14;individuals
+114;PRC;Welfare;Ready-to-Eat;Bread;410;41008;Balibago;Finished;14;individuals
+188;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;14;individuals
+245;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;14;individuals
+329;PRC;Relief;Food Items;Food Items (Assorted);434;43405;;Finished;14;families
+;PRC;Health;Health;Health Teaching;410;60402;Makina;Finished;14;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41005;Bolbok;Finished;14;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;14;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Abelo;Finished;14;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Abelo;Finished;14;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;14;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;14;individuals
+;PRC;Relief;Non Food Items;Towel;410;41008;Balibago;Finished;14;families
+71;PRC;Health;Safety;Blood Pressure Taking;410;41005;Bolbok;Finished;15;individuals
+79;PRC;Health;Safety;Blood Pressure Taking;410;41010;Malainin;Finished;15;individuals
+144;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;15;individuals
+172;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;15;individuals
+174;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;15;individuals
+189;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;15;individuals
+206;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;15;individuals
+207;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;15;individuals
+208;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;15;individuals
+229;PRC;Welfare;PSS;Child Friendly Activity;410;41030;Tumaway;Finished;15;individuals
+317;PRC;Relief;Food Items;Food Items (Assorted);410;41002;Concepcion;Finished;15;individuals
+398;PRC;Relief;Food Items;Food Items (Standard);421;42106;;Finished;15;families
+;PRC;Health;Health;Health Teaching;410;41010;Talaibon;Finished;15;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42106;Remedios Brgy.Salitran 2;Finished;15;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Bolbok;Finished;15;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;15;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;15;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;15;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tranca;Finished;15;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Aya;Finished;15;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Balete;Finished;15;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Balete;Finished;15;families
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;Lamesa;Finished;15;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43426;;Finished;15;individuals
+68;PRC;SRR;Rescue;Assisted;410;41031;Banadero;Finished;16;individuals
+238;ECHO, SRC;Shelter;Shelter;Family tent;410;41010;Malainin;Finished;16;units
+239;ECHO, SRC;Shelter;Shelter;Family tent;410;41010;Malainin;Finished;16;units
+316;PRC;Relief;Food Items;Food Items (Assorted);410;41002;;Finished;16;individuals
+353;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41019;Wawa;Finished;16;individuals
+;PRC;Health;Health;Health Consultation;410;41031;Pob 5;Finished;16;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;16;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pansipit;Finished;16;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pansipit;Finished;16;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Tabla;Finished;16;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;16;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;16;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;16;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;16;individuals
+159;PRC;Welfare;PSS;Child Friendly Activity;434;43405;Bunggo;Finished;17;individuals
+160;PRC;Welfare;PSS;Child Friendly Activity;434;43405;Tres Poblacion Brgy Hall;Finished;17;individuals
+177;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;17;individuals
+199;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;17;individuals
+205;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;17;individuals
+234;PRC;Welfare;PSS;Child Friendly Activity;434;43404;Cabuyao;Finished;17;individuals
+250;PRC;Health;Safety;First Aid;410;41005;Bolbok;Finished;17;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Malainin;Finished;17;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Malainin;Finished;17;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;17;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;17;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;17;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41026;San Antonio;Finished;17;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;17;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;17;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43404;;Finished;17;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;17;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;17;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Poblacion 6;Finished;17;individuals
+64;PRC;SRR;Rescue;Assisted;410;41018;;Finished;18;individuals
+88;PRC;Health;Safety;Blood Pressure Taking;410;41024;Calumpang East;Finished;18;individuals
+133;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;18;individuals
+344;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41013;Balibago;Finished;18;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Malainin;Finished;18;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41023;;Finished;18;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Poblacion 6;Finished;18;individuals
+157;PRC;Welfare;PSS;Child Friendly Activity;434;43402;;Finished;19;individuals
+191;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;19;individuals
+193;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;19;individuals
+202;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;19;individuals
+318;PRC;Relief;Food Items;Food Items (Assorted);410;41002;;Finished;19;individuals
+324;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41005;;Finished;19;individuals
+368;PRC;Relief;Food Items;Food Items (Assorted);434;43426;;Finished;19;families
+426;PRC;Health;Health;Health Consultation;410;41005;Bolbok;Finished;19;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;19;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;19;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;19;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tumaway;Finished;19;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;19;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;19;individuals
+126;PRC;Welfare;PSS;Child Friendly Activity;410;41003;;Finished;20;individuals
+162;PRC;Welfare;PSS;Child Friendly Activity;434;43406;Paliparan;Finished;20;individuals
+176;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;20;individuals
+179;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;20;individuals
+327;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41006;;Finished;20;individuals
+347;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41013;Poblacion 5;Finished;20;individuals
+388;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41034;Talon;Finished;20;individuals
+;PRC;Health;Health;Health Teaching;410;;;Finished;20;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41002;San Jose;Finished;20;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41005;Poblacion;Finished;20;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;20;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43406;Limao;Finished;20;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;20;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;20;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;20;individuals
+78;PRC;Health;Safety;Blood Pressure Taking;410;41007;Poblacion 2;Finished;21;individuals
+187;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;21;individuals
+222;PRC;Welfare;PSS;Child Friendly Activity;410;41024;Poblacion 7;Finished;21;individuals
+334;Shangri La;Relief;Food Items;Food Items (Assorted);410;41008;Pedro Palacio ES;Finished;21;individuals
+370;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41028;;Finished;21;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Malainin;Finished;21;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;21;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43405;;Finished;21;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;21;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;21;individuals
+197;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;22;individuals
+351;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;71231;Poblacion;Finished;22;individuals
+359;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41023;Muzon;Finished;22;individuals
+379;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41031;Wawa;Finished;22;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Malainin;Finished;22;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;22;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Alas-as;Finished;22;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;22;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Aya;Finished;22;individuals
+147;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Kumintang Ibaba;Finished;23;individuals
+195;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;23;individuals
+231;PRC;Welfare;PSS;Child Friendly Activity;410;41031;;Finished;23;individuals
+341;Shangri La;Relief;Food Items;Food Items (Assorted);410;41013;Bagong Pook;Finished;23;individuals
+346;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41013;Poblacion 3;Finished;23;individuals
+354;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41019;;Finished;23;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malaya;Finished;23;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;23;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;23;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;23;individuals
+166;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;24;individuals
+171;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;24;individuals
+200;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;24;individuals
+201;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;24;individuals
+320;PRC;Relief;Food Items;Food Items (Assorted);410;41002;;Finished;24;individuals
+362;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41024;;Finished;24;individuals
+380;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41031;Maria Paz;Finished;24;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41002;Muzon;Finished;24;individuals
+;PRC;Health;Health;Mask (N95);421;42118;;Finished;24;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;Sambal Ibaba;Finished;24;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;Sambal Ibaba;Finished;24;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Talang;Finished;24;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Talang;Finished;24;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;24;individuals
+142;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;25;individuals
+148;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;25;individuals
+194;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;25;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Talaibon;Finished;25;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;;Finished;25;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41026;;Finished;25;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;25;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;25;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;25;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;26;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;26;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;26;individuals
+225;PRC;Welfare;PSS;Child Friendly Activity;410;41030;Tumaway;Finished;27;individuals
+;PRC;Health;Health;Health Consultation;410;41031;Pob 6;Finished;27;individuals
+128;PRC;Welfare;PSS;Child Friendly Activity;410;60402;Makina;Finished;28;individuals
+136;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;28;individuals
+332;Shangri La;Relief;Food Items;Food Items (Assorted);410;41008;;Finished;28;individuals
+367;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41026;San Antonio;Finished;28;individuals
+387;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41034;Talon;Finished;28;individuals
+;PRC;Health;Health;Health Teaching;410;41031;Pob 5;Finished;28;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41031;;Finished;28;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;28;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;28;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;28;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;28;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;28;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Poblacion 6;Finished;28;individuals
+210;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;29;individuals
+227;PRC;Welfare;PSS;Child Friendly Activity;410;41030;Tumaway;Finished;29;individuals
+374;PRC;Relief;Food Items;Food Items (Assorted);410;41030;Aya;Finished;29;individuals
+;ECHO;Relief;Non Food Items;Hygiene Kit (Standard);410;41030;Aya;Finished;29;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Aya;Finished;29;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41009;;Finished;29;individuals
+;ECHO;Shelter;Shelter;Provision of Butane Gas;410;41030;Aya;Finished;29;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41009;;Finished;29;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;29;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;29;individuals
+140;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Banaba West;Finished;30;individuals
+155;PRC;Welfare;PSS;Child Friendly Activity;410;41006;Poblacion;Finished;30;individuals
+164;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;30;individuals
+167;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;30;individuals
+184;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;30;individuals
+203;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;30;individuals
+211;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;30;individuals
+335;Shangri La;Relief;Food Items;Food Items (Assorted);410;41008;Pacita Madrigal ES;Finished;30;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;30;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;30;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41020;;Finished;30;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;30;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Poblacion 6;Finished;30;individuals
+8;PRC;Relief;Food Items;6L Water;434;43405;;Finished;31;families
+112;PRC;Welfare;Ready-to-Eat;Bread;434;43405;Tres Poblacion;Finished;31;individuals
+190;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;31;individuals
+356;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41020;Quilo Quilo;Finished;31;individuals
+357;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41021;Malaya;Finished;31;individuals
+396;PRC;Relief;Food Items;Food Items (Standard);434;43406;Paliparan;Finished;31;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;31;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;31;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;31;individuals
+175;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;32;individuals
+233;PRC;Welfare;PSS;Child Friendly Activity;410;41031;Pob 5;Finished;32;individuals
+;PRC;Health;Health;Health Teaching;410;41031;Pob 6;Finished;32;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41010;Talaibon;Finished;32;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41031;Pob 6;Finished;32;individuals
+115;PRC;Welfare;Ready-to-Eat;Bread;410;41008;Encarnacion;Finished;33;individuals
+156;PRC;Welfare;PSS;Child Friendly Activity;434;43402;Bitin ES;Finished;33;individuals
+163;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;33;individuals
+181;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;33;individuals
+228;PRC;Welfare;PSS;Child Friendly Activity;410;41030;Aya;Finished;33;individuals
+;PRC;Health;Health;Health Teaching;410;41005;Bolbok;Finished;33;individuals
+;PRC;Health;Health;Health Teaching;410;41005;Bolbok;Finished;33;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Bolbok;Finished;33;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Hipit;Finished;33;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Hipit;Finished;33;families
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43402;;Finished;33;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;33;individuals
+;PRC;Relief;Non Food Items;Towel;410;41008;;Finished;33;families
+161;PRC;Welfare;PSS;Child Friendly Activity;434;43406;Limao;Finished;34;individuals
+183;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;34;individuals
+224;PRC;Welfare;PSS;Child Friendly Activity;410;41028;;Finished;34;individuals
+;PRC;WASH;WASH;Hygiene Promotion;434;43402;;Finished;34;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;;Finished;34;individuals
+5;PRC;Relief;Food Items;6L Water;434;43404;;Finished;35;families
+104;PRC;Relief;Food Items;Bottled Water;434;43404;;Finished;35;families
+149;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Kumintang Ibaba;Finished;35;individuals
+401;PRC;Relief;Food Items;Food Items (Standard);421;42106;;Finished;35;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42106;Brgy.San Simon;Finished;35;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Kumintang Ibaba;Finished;35;individuals
+;PRC;WASH;WASH;Hygiene Promotion;434;43404;;Finished;35;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41012;San Isidro Itaas;Finished;35;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;San Isidro Itaas;Finished;35;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;San Isidro Itaas;Finished;35;families
+416;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;36;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Pulong Saguing ;Finished;36;families
+135;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;37;individuals
+150;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;37;individuals
+182;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;37;individuals
+336;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41010;;Finished;37;individuals
+419;PRC;Relief;Food Items;Food Items (Standard);421;42118;;Finished;37;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42118;Brgy.Pulong Bunga;Finished;37;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;San Isidro;Finished;37;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;37;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;Poblacion;Finished;37;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;37;individuals
+185;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;38;individuals
+323;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41005;Bolbok;Finished;38;individuals
+348;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41014;Bugtong na Pulo ES;Finished;38;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41006;Poblacion;Finished;38;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);421;;;Finished;38;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;38;individuals
+322;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41005;Kumintang Ibaba;Finished;39;individuals
+342;Shangri La;Relief;Food Items;Food Items (Assorted);410;41013;Luyahan;Finished;39;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;39;individuals
+165;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;40;individuals
+168;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;40;individuals
+219;PRC;Welfare;PSS;Child Friendly Activity;410;41018;;Finished;40;individuals
+230;PRC;Welfare;PSS;Child Friendly Activity;410;41030;Tumaway;Finished;40;individuals
+319;PRC;Relief;Food Items;Food Items (Assorted);410;41002;;Finished;40;individuals
+361;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41024;Taliba;Finished;40;individuals
+386;Shangri La;Relief;Food Items;Food Items (Assorted);410;41034;Guinhawa;Finished;40;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;40;individuals
+65;PRC;SRR;Rescue;Assisted;410;41029;;Finished;41;individuals
+134;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Balate;Finished;41;individuals
+382;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41032;;Finished;41;individuals
+325;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41005;Bolbok;Finished;42;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Sto Nino;Finished;42;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Sto Nino;Finished;42;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;42;individuals
+;UAE;Relief;Non Food Items;Sleeping Kit (Blankets);410;60402;Makina;Finished;42;families
+;UAE;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;60402;Makina;Finished;42;families
+;UAE;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;60402;Makina;Finished;42;families
+232;PRC;Welfare;PSS;Child Friendly Activity;410;41031;Pob 6;Finished;43;individuals
+326;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41005;Kumintang Ibaba;Finished;43;individuals
+340;Shangri La;Relief;Food Items;Food Items (Assorted);410;41013;Poblacion 1;Finished;43;individuals
+378;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41031;Ambulong;Finished;43;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41025;Poblacion;Finished;43;families
+129;PRC;Welfare;PSS;Child Friendly Activity;410;60402;Makina;Finished;44;individuals
+220;PRC;Welfare;PSS;Child Friendly Activity;410;41020;;Finished;44;individuals
+343;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41013;Bagong Pook;Finished;44;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;60402;Makina;Finished;44;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41005;Kumintang Ibaba;Finished;44;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;44;individuals
+186;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;45;individuals
+;PRC;Health;Health;Health Teaching;410;41010;Talaibon;Finished;45;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;45;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tumaway;Finished;45;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;45;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;45;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;45;individuals
+364;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41024;;Finished;46;individuals
+116;PRC;Welfare;Ready-to-Eat;Bread;410;41008;Enrique Zobel;Finished;47;individuals
+138;PRC;Welfare;PSS;Child Friendly Activity;410;41005;;Finished;47;individuals
+221;PRC;Welfare;PSS;Child Friendly Activity;410;41024;Calumpang East;Finished;47;individuals
+425;PRC;Health;Health;Health Consultation;410;41002;San Jose;Finished;47;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;47;individuals
+;PRC;Relief;Non Food Items;Towel;410;41008;;Finished;47;families
+169;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Malainin;Finished;48;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;48;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41024;;Finished;48;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41005;Bolbok;Finished;48;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41026;;Finished;48;individuals
+333;Shangri La;Relief;Food Items;Food Items (Assorted);410;41008;Lucsuhin NHS;Finished;49;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41031;Poblacion 3;Finished;49;individuals
+226;PRC;Welfare;PSS;Child Friendly Activity;410;41030;Tumaway;Finished;50;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Alas-as;Finished;50;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Alas-as;Finished;50;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Kumintang Ibaba;Finished;50;individuals
+;ECHO - GRC;Welfare;Non Food Items;Read and Play Kit;410;41030;Aya;Finished;50;individuals
+;IFRC;Education;Non Food Items;School Kit;410;41030;Aya;Finished;50;individuals
+;PRC;WASH;WASH;Water;410;41003;Lanatan;Finished;50;liters
+139;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Banaba East;Finished;51;individuals
+152;PRC;Welfare;PSS;Child Friendly Activity;410;41006;Poblacion;Finished;51;individuals
+217;PRC;Welfare;PSS;Child Friendly Activity;410;41017;Poblacion;Finished;51;individuals
+330;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41008;;Finished;51;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;60402;Makina;Finished;51;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41012;Cahilan;Finished;52;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;Cahilan 1;Finished;52;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;Cahilan 1;Finished;52;families
+385;Shangri La;Relief;Food Items;Food Items (Assorted);410;41034;Tuyon Tuyon;Finished;54;individuals
+404;PRC;Relief;Food Items;Food Items (Standard);421;42108;;Finished;54;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42108;Brgy.Buenavista;Finished;54;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Sinturisan;Finished;54;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Sinturisan;Finished;54;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Tumaway;Finished;54;individuals
+209;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;56;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Kumintang Ibaba;Finished;56;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;56;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41028;;Finished;56;individuals
+360;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41024;San Jose;Finished;57;individuals
+;PRC;Health;Health;Health Teaching;410;41024;;Finished;57;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41002;San Jose;Finished;57;individuals
+339;PRC;Relief;Food Items;Food Items (Assorted);410;41012;Sanggalang;Finished;58;individuals
+366;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41026;Laurel;Finished;58;individuals
+377;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41031;Banadero;Finished;58;individuals
+383;Shangri La;Relief;Food Items;Food Items (Assorted);410;41034;Rizal;Finished;58;individuals
+389;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41034;;Finished;58;individuals
+409;PRC;Relief;Food Items;Food Items (Standard);410;41012;Sangalang;Finished;58;families
+;IFRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41012;Brgy. Sangalang;Finished;58;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Kumintang Ibaba;Finished;58;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41012;Brgy. Sangalang;Finished;58;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;58;individuals
+331;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41008;;Finished;59;individuals
+102;PRC;Health;Safety;Blood Pressure Taking;410;41031;;Finished;60;individuals
+146;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;60;individuals
+413;PRC;Relief;Food Items;Food Items (Standard);410;41025;Poblacion;Finished;60;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tumaway;Finished;60;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41013;;Finished;60;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Bangin;Finished;61;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;61;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41012;Talaga;Finished;62;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Calangay;Finished;62;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Calangay;Finished;62;families
+365;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41026;Laurel;Finished;63;individuals
+;PRC;Health;Health;Health Teaching;410;41030;Tumaway;Finished;63;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;63;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tumaway;Finished;63;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41032;;Finished;63;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;San Isidro;Finished;63;families
+131;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;64;individuals
+61;PRC;SRR;Rescue;Assisted;410;41005;;Finished;65;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;65;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;65;individuals
+141;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Kumintang Ibaba;Finished;66;individuals
+158;PRC;Welfare;PSS;Child Friendly Activity;410;41007;Poblacion 2;Finished;66;individuals
+192;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;66;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Bolbok;Finished;66;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;66;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;66;individuals
+63;PRC;SRR;Rescue;Assisted;410;41018;;Finished;67;individuals
+125;PRC;Welfare;PSS;Child Friendly Activity;410;41002;;Finished;67;individuals
+;IFRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41010;Malainin;Finished;67;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41002;;Finished;67;individuals
+;;WASH;Non Food Items;Jerry Can (10L);410;41010;Malainin;Finished;67;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41018;;Finished;67;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;San Isidro;Finished;67;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;67;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;67;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;67;individuals
+;IFRC;Relief;Non Food Items;Sleeping Kit (Blankets);410;41010;Malainin;Finished;67;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;41010;Malainin;Finished;67;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;41010;Malainin;Finished;67;families
+;IFRC;Shelter;Non Food Items;Tarpaulin;410;41010;Malainin;Finished;67;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41001;Subic;Finished;68;individuals
+111;PRC;Welfare;Ready-to-Eat;Bread;434;43405;Mabato;Finished;70;individuals
+;PRC;Relief;Non Food Items;Towel;410;41008;Balibago;Finished;70;families
+62;PRC;SRR;Rescue;Assisted;410;41011;;Finished;71;individuals
+369;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41028;San Antonio;Finished;71;individuals
+372;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41028;San Antonio;Finished;71;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Bangin;Finished;71;families
+66;PRC;SRR;Rescue;Assisted;410;41030;;Finished;72;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41006;;Finished;73;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;74;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41031;Mabini;Finished;75;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41030;Poblacion 6;Finished;76;individuals
+196;PRC;Welfare;PSS;Child Friendly Activity;410;41010;Talaibon;Finished;77;individuals
+423;PRC;Relief;Food Items;Food Items (Standard);421;42122;;Finished;79;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;Poblacion;Finished;79;individuals
+;Korea;Relief;Non Food Items;Hygiene Kit (Standard);410;41025;Poblacion ;Finished;80;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41019;Wawa;Finished;80;individuals
+218;PRC;Welfare;PSS;Child Friendly Activity;410;41018;;Finished;81;individuals
+127;PRC;Welfare;PSS;Child Friendly Activity;410;60402;Makina;Finished;82;individuals
+363;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41024;Poblacion;Finished;82;individuals
+145;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;83;individuals
+151;PRC;Welfare;PSS;Child Friendly Activity;410;41006;Poblacion;Finished;83;individuals
+;PRC;Health;Health;Health Teaching;410;41005;Kumintang Ibaba;Finished;84;individuals
+;PRC;Health;Health;Health Teaching;410;41018;;Finished;84;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41003;;Finished;84;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41018;;Finished;84;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41018;;Finished;84;individuals
+384;Shangri La;Relief;Food Items;Food Items (Assorted);410;41034;;Finished;85;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Kumintang Ibaba;Finished;85;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;Dayapan;Finished;85;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;Dayapan;Finished;85;families
+;UAE;Relief;Non Food Items;Sleeping Kit (Blankets);410;60402;Makina;Finished;87;families
+;UAE;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;60402;Makina;Finished;87;families
+;UAE;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;60402;Makina;Finished;87;families
+355;Shangri La;Relief;Food Items;Food Items (Assorted);410;41019;Nasugbu West Central School;Finished;88;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41031;;Finished;89;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;;Finished;89;individuals
+213;PRC;Welfare;PSS;Child Friendly Activity;410;41014;Marawoy;Finished;90;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41021;;Finished;90;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41024;Calumpang East;Finished;90;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Aya;Finished;93;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41006;Poblacion;Finished;94;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41026;San Antonio;Finished;94;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;Balayong;Finished;94;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41007;;Finished;96;individuals
+;PRC;Health;Health;Health Teaching;410;41030;Aya;Finished;97;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Aya;Finished;97;individuals
+60;PRC;SRR;Rescue;Assisted;410;;;Finished;98;individuals
+1;PRC;Relief;Food Items;350 mL Bottled Water;421;42113;;Finished;100;families
+117;PRC;Welfare;Ready-to-Eat;Bread;421;42123;Castaños Lejos;Finished;100;individuals
+352;PRC;Relief;Food Items;Food Items (Assorted);421;42113;;Finished;100;families
+;PRC;Welfare;Welfare;I'm Alive;410;41028;;Finished;100;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41006;Durungao;Finished;100;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41013;;Finished;100;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41034;Talon;Finished;100;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;100;families
+;PRC;WASH;WASH;Water;410;41003;Barangay 5;Finished;100;liters
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;100;liters
+;PRC;WASH;WASH;Water;410;41019;Lumbangan;Finished;100;liters
+;PRC;WASH;WASH;Hygiene Promotion;410;41026;San Antonio;Finished;103;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;434;43424;;Finished;103;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41005;Bolbok;Finished;104;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;Mataas na Bayan;Finished;104;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41012;Mataas na Bayan;Finished;104;families
+110;PRC;Welfare;Ready-to-Eat;Bread;434;43404;San Luis;Finished;105;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41028;;Finished;105;individuals
+6;PRC;Relief;Food Items;6L Water;434;43404;;Finished;108;families
+328;PRC;Relief;Food Items;Food Items (Assorted);434;43405;;Finished;108;families
+;PRC;Health;Health;Health Teaching;410;41001;Bilibinwang;Finished;108;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Bilibinwang;Finished;108;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41031;Wawa;Finished;110;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41031;Mabini;Finished;110;individuals
+212;PRC;Welfare;PSS;Child Friendly Activity;410;41014;;Finished;111;individuals
+376;PRC;Relief;Food Items;Food Items (Assorted);410;41030;Tumaway;Finished;114;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41010;Malainin;Finished;114;individuals
+;ECHO;Relief;Non Food Items;Hygiene Kit (Standard);410;41030;Tumaway;Finished;114;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tumaway;Finished;114;individuals
+;ECHO;Shelter;Shelter;Provision of Butane Gas;410;41030;Tumaway;Finished;114;families
+108;PRC;Welfare;Ready-to-Eat;Bread;410;41005;Balete;Finished;115;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;115;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41013;;Finished;115;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41019;;Finished;115;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41018;;Finished;115;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;116;families
+;ECHO;Relief;Non Food Items;Hygiene Kit (Standard);410;41030;Tumaway;Finished;117;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41024;;Finished;120;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41031;Maria Paz;Finished;120;individuals
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;120;liters
+216;PRC;Welfare;PSS;Child Friendly Activity;410;41017;Poblacion;Finished;124;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Malainin;Finished;124;individuals
+314;PRC;Relief;Food Items;Food Items (Assorted);410;41001;Bilibinwang;Finished;125;individuals
+2;PRC;Relief;Food Items;350 mL Bottled Water;421;42119;;Finished;129;families
+373;PRC;Relief;Food Items;Food Items (Assorted);421;42119;;Finished;129;families
+395;PRC;Relief;Food Items;Food Items (Standard);434;43406;Limao;Finished;129;families
+422;UAE;Relief;Food Items;Food Items (Standard);410;41030;Tumaway;Finished;130;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Tabla;Finished;130;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;131;families
+;IFRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41005;Kumintang Ibaba;Finished;134;families
+;;WASH;Non Food Items;Jerry Can (10L);410;41005;Kumintang Ibaba;Finished;134;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Blankets);410;41005;Kumintang Ibaba;Finished;134;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;41005;Kumintang Ibaba;Finished;134;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;41005;Kumintang Ibaba;Finished;134;families
+3;PRC;Relief;Food Items;350 mL Bottled Water;421;42120;;Finished;136;families
+371;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41028;;Finished;136;individuals
+381;PRC;Relief;Food Items;Food Items (Assorted);421;42120;;Finished;136;families
+4;PRC;Relief;Food Items;6L Water;434;43402;;Finished;138;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41007;Poblacion 2;Finished;138;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pulang Bato;Finished;139;families
+107;PRC;Welfare;Ready-to-Eat;Bread;421;42101;;Finished;140;individuals
+;UAE;Relief;Non Food Items;Hygiene Kit (Standard);410;41010;Talaibon;Finished;140;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41026;San Antonio;Finished;140;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41034;;Finished;140;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Talaibon;Finished;140;individuals
+392;Nueva Ecija;Relief;Food Items;Food Items (Standard);410;41001;Subic Ilaya;Finished;141;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Subic Ilaya;Finished;141;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Subic Ilaya;Finished;141;families
+;PRC;Health;Health;Health Teaching;410;41007;Poblacion 2;Finished;142;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Bolbok;Finished;144;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41005;Bolbok;Finished;144;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;60402;Calawit;Finished;144;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Pulang Bato;Finished;144;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41010;Malainin;Finished;144;individuals
+120;PRC;Welfare;Ready-to-Eat;Bread;410;41018;;Finished;145;individuals
+121;PRC;Welfare;Ready-to-Eat;Bread;410;41018;;Finished;145;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Kumintang Ibaba;Finished;146;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Poblacion;Finished;149;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Poblacion;Finished;149;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;150;individuals
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;150;liters
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;151;families
+315;PRC;Relief;Food Items;Food Items (Assorted);410;41002;;Finished;152;individuals
+;PRC;Health;Health;Health Teaching;410;41001;Bilibinwang;Finished;152;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41001;Banyaga;Finished;152;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Bilibinwang;Finished;152;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41028;;Finished;152;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;152;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41028;;Finished;152;individuals
+;IFRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41028;Mataas na Kahoy NHS;Finished;155;families
+;PRC;Welfare;Welfare;I'm Alive;410;41005;Bolbok;Finished;155;individuals
+;;WASH;Non Food Items;Jerry Can (10L);410;41028;;Finished;155;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;71231;;Finished;155;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41020;;Finished;155;individuals
+;IFRC;Relief;Non Food Items;Sleeping Kit (Blankets);410;41028;;Finished;155;families
+;PRC;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;41028;;Finished;155;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;41028;;Finished;155;families
+;PRC;Welfare;Welfare;I'm Alive;410;41005;Balete;Finished;156;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Balete;Finished;156;individuals
+132;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;157;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;157;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41024;;Finished;157;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;159;families
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;160;liters
+118;PRC;Welfare;Ready-to-Eat;Bread;421;42113;Pantihan 4;Finished;161;individuals
+391;Nueva Ecija;Relief;Food Items;Food Items (Standard);410;41001;Pansipit;Finished;165;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Brgy. Pansipit;Finished;165;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Pansipit;Finished;165;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41014;Marawoy;Finished;165;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41005;Bolbok;Finished;165;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Pansipit;Finished;165;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Pansipit;Finished;165;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;165;individuals
+;PRC;Relief;Non Food Items;Towel;410;41008;;Finished;165;families
+137;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Kumintang Ibaba;Finished;167;individuals
+;PRC;Health;Health;Health Teaching;410;41030;Tumaway;Finished;167;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tumaway;Finished;167;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41006;;Finished;167;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;167;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41006;Poblacion;Finished;168;individuals
+;PRC;WASH;WASH;Water;410;41028;;Finished;170;liters
+;ECHO;Shelter;Shelter;Provision of Butane Gas;410;41030;Poblacion 6;Finished;171;families
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41024;;Finished;172;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;177;individuals
+349;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41014;Bulacnin NHS;Finished;178;individuals
+350;Mcdonalds;Relief;Food Items;Food Items (Assorted);410;41014;Bulacnin ES;Finished;180;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41003;;Finished;180;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41014;;Finished;180;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41005;Kumintang Ibaba;Finished;180;individuals
+;ECHO - GRC;Welfare;Non Food Items;Read and Play Kit;410;41030;Tumaway;Finished;180;individuals
+;IFRC;Education;Non Food Items;School Kit;410;41030;Tumaway;Finished;180;individuals
+;PRC;Health;Health;Health Teaching;410;41001;Banyaga;Finished;181;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Banyaga;Finished;181;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;181;families
+427;PRC;Health;Health;Health Consultation;410;41005;Bolbok;Finished;183;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41005;Kumintang Ibaba;Finished;184;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Kumintang Ibaba;Finished;184;individuals
+;PRC;Health;Health;Health Teaching;410;41001;Bilibinwang;Finished;185;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Bilibinwang;Finished;185;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41007;;Finished;185;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;185;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;189;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41013;Matabungkay;Finished;190;individuals
+;PRC;Health;Health;Health Teaching;410;41001;Banyaga;Finished;192;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Banyaga;Finished;192;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;192;families
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Bolbok;Finished;198;individuals
+130;PRC;Welfare;PSS;Child Friendly Activity;410;41005;Bolbok;Finished;200;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Bolbok;Finished;200;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41014;;Finished;200;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41024;;Finished;200;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;200;families
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;200;liters
+;PRC;WASH;WASH;Water;410;41006;Poblacion;Finished;200;liters
+;PRC;WASH;WASH;Water;410;41026;;Finished;200;liters
+;PRC;Welfare;Welfare;I'm Alive;410;41031;Poblacion 5;Finished;201;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41017;;Finished;202;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41014;;Finished;203;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;Balayan;Finished;203;individuals
+406;UAE;Relief;Food Items;Food Items (Standard);410;41010;Talaibon;Finished;204;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41005;Bolbok;Finished;204;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41003;;Finished;204;individuals
+;PRC;Health;Health;Health Teaching;410;41001;Coral na Munit;Finished;206;individuals
+;PRC;Health;Health;Health Teaching;410;41006;;Finished;206;individuals
+;PRC;Health;Health;Health Teaching;410;41006;Poblacion;Finished;206;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Coral na Munit;Finished;206;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Coral Na Munti;Finished;206;families
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41003;;Finished;210;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41006;;Finished;210;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;210;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Bolbok;Finished;212;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41024;;Finished;213;individuals
+394;Nueva Ecija;Relief;Food Items;Food Items (Standard);410;41001;Coral na Munti;Finished;214;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Coral na Munti;Finished;214;families
+;PRC;Health;Health;Health Teaching;410;41001;Bilibinwang;Finished;215;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Bilibinwang;Finished;215;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41024;;Finished;215;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41031;Ambulong;Finished;215;individuals
+214;PRC;Welfare;PSS;Child Friendly Activity;410;41014;Marawoy;Finished;216;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41014;;Finished;216;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;217;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;60402;Calawit;Finished;217;families
+119;PRC;Welfare;Ready-to-Eat;Bread;410;41018;;Finished;219;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41006;Durungao;Finished;227;individuals
+;PRC;Health;Health;Health Teaching;410;41001;Bilibinwang;Finished;229;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Bilibinwang;Finished;229;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;229;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41014;;Finished;230;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Tumaway;Finished;231;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;232;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41002;;Finished;234;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41026;Laurel;Finished;235;individuals
+;PRC;Relief;Non Food Items;Towel;410;41008;;Finished;235;families
+337;PRC;Relief;Food Items;Food Items (Assorted);410;41010;Talaibon;Finished;240;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;240;individuals
+;ECHO;Shelter;Shelter;Provision of Butane Gas;410;41010;Talaibon;Finished;240;families
+;ECHO - GRC;Welfare;Non Food Items;Read and Play Kit;410;41030;Poblacion 6;Finished;240;individuals
+;IFRC;Education;Non Food Items;School Kit;410;41030;Poblacion 6;Finished;240;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;Pob 5;Finished;242;individuals
+393;Nueva Ecija;Relief;Food Items;Food Items (Standard);410;41001;Pamiga;Finished;247;families
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Pamiga;Finished;248;families
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;250;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41008;;Finished;250;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41008;;Finished;250;individuals
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;250;liters
+;PRC;WASH;WASH;Water;410;41019;;Finished;250;liters
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41008;;Finished;255;individuals
+338;PRC;Relief;Food Items;Food Items (Assorted);410;41010;Talaibon;Finished;256;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;256;individuals
+;ECHO;Shelter;Shelter;Provision of Butane Gas;410;41010;Talaibon;Finished;256;families
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Alas-as;Finished;269;families
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41003;;Finished;270;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41028;;Finished;273;individuals
+;ECHO - GRC;Welfare;Non Food Items;Read and Play Kit;410;60402;Calawit;Finished;284;individuals
+;IFRC;Education;Non Food Items;School Kit;410;60402;Calawit;Finished;284;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41002;;Finished;285;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41024;;Finished;285;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41003;;Finished;286;individuals
+410;PRC;Relief;Food Items;Food Items (Standard);421;42113;;Finished;288;families
+;PRC;Relief;Non Food Items;Hygiene Kit (Assorted);421;42113;"Brgy.pinagsanhan A and B
+Pantihan 1,2,3 and 4";Finished;288;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41026;Laurel;Finished;290;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41034;;Finished;290;individuals
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;294;liters
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41003;;Finished;296;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41005;Kumintang Ibaba;Finished;297;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;;Finished;297;individuals
+122;PRC;Welfare;Ready-to-Eat;Bread;421;42114;;Finished;300;individuals
+;PRC;Health;Health;Health Consultation;410;41018;;Finished;300;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;300;individuals
+;Korea;Relief;Non Food Items;Hygiene Kit (Standard);410;41012;Poblacion ;Finished;300;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Subic Ilaya;Finished;300;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Subic Ilaya;Finished;300;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41012;;Finished;300;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Subic Ilaya;Finished;300;families
+;PRC;Health;Health;Health Teaching;410;41010;Talaibon;Finished;301;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;301;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Subic Ilaya;Finished;301;families
+;Sun Life Foundation;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41025;Alas-as;Finished;301;families
+;PRC;Welfare;Welfare;I'm Alive;410;41005;Bolbok;Finished;305;individuals
+;IFRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41010;Talaibon;Finished;309;families
+;PRC;Welfare;Welfare;I'm Alive;410;41031;Poblacion 6;Finished;310;individuals
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;310;liters
+124;PRC;Welfare;Ready-to-Eat;Bread;410;41031;;Finished;312;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;;Finished;312;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41006;Manghinao;Finished;314;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41005;Bolbok;Finished;314;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41010;Malainin;Finished;320;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41005;As-is;Finished;324;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Kumintang Ibaba;Finished;324;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41005;Bolbok;Finished;325;individuals
+313;PRC;Relief;Food Items;Food Items (Assorted);410;41001;Banyaga;Finished;340;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41010;Talaibon;Finished;340;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;Pob 6;Finished;343;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;60402;Makina;Finished;346;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;60402;Calawit;Finished;347;families
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;350;liters
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;350;liters
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41024;;Finished;355;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41028;San Antonio;Finished;355;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Poblacion 6;Finished;358;individuals
+421;Nueva Ecija;Relief;Food Items;Food Items (Standard);410;41030;Poblacion 6;Finished;359;families
+;ECHO;Relief;Non Food Items;Hygiene Kit (Standard);410;41030;Poblacion 6;Finished;359;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41030;Poblacion 6;Finished;359;individuals
+;IFRC;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41030;Poblacion 6;Finished;359;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41009;;Finished;371;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41006;As-Is;Finished;376;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41001;Bilibinwang;Finished;376;families
+321;PRC;Relief;Food Items;Food Items (Assorted);410;60402;Makina;Finished;385;individuals
+;ECHO;Relief;Non Food Items;Hygiene Kit (Standard);410;60402;Makina;Finished;385;families
+420;UAE;Relief;Food Items;Food Items (Standard);410;41029;Gahol;Finished;396;families
+;UAE;Relief;Non Food Items;Sleeping Kit (Blankets);410;41029;Gahol;Finished;396;families
+;UAE;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;41029;Gahol;Finished;396;families
+;UAE;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;41029;Gahol;Finished;396;families
+215;PRC;Welfare;PSS;Child Friendly Activity;410;41014;;Finished;400;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Wawa;Finished;400;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;;Finished;400;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41024;;Finished;400;individuals
+;PRC;WASH;WASH;Water;410;41019;;Finished;400;liters
+;PRC;WASH;WASH;Water;410;41021;;Finished;400;liters
+;ECHO - GRC;Welfare;Non Food Items;Read and Play Kit;410;41010;Talaibon;Finished;403;individuals
+;IFRC;Education;Non Food Items;School Kit;410;41010;Talaibon;Finished;403;individuals
+109;PRC;Welfare;Ready-to-Eat;Bread;434;43402;Bitin;Finished;414;individuals
+;PRC;Health;Health;Mask (N95);421;42101;;Finished;415;individuals
+;PRC;Health;Health;Health Teaching;410;60402;Makina;Finished;445;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;60402;Makina;Finished;445;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41014;;Finished;447;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41014;;Finished;447;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Ambulong;Finished;450;individuals
+;PRC;WASH;WASH;Water;410;41019;;Finished;450;liters
+105;PRC;Welfare;Ready-to-Eat;Bread;421;42101;Matagbak;Finished;456;individuals
+408;UAE;Relief;Food Items;Food Items (Standard);410;41012;Sangalang;Finished;460;families
+;UAE;Relief;Non Food Items;Hygiene Kit (Standard);410;41012;Sangalang;Finished;460;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Subic Ilaya;Finished;460;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Subic Ilaya;Finished;460;families
+390;Nueva Ecija;Relief;Food Items;Food Items (Standard);410;41001;Poblacion 6;Finished;461;families
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41028;;Finished;461;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Pamiga;Finished;461;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;466;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41031;;Finished;474;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;;Finished;474;individuals
+412;Nueva Ecija;Relief;Food Items;Food Items (Standard);410;41025;Poblacion;Finished;488;families
+;ECHO;Relief;Non Food Items;Hygiene Kit (Standard);410;41025;Poblacion ;Finished;489;families
+;ECHO;Relief;Non Food Items;Hygiene Kit (Standard);410;41010;Talaibon;Finished;495;families
+312;PRC;Relief;Food Items;Food Items (Assorted);410;41001;Banyaga;Finished;497;individuals
+;PRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41001;Banyaga;Finished;497;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Banyaga;Finished;497;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Banyaga;Finished;498;families
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;;Finished;500;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);421;42101;;Finished;500;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41029;Laguile;Finished;500;individuals
+;ECHO;Relief;Non Food Items;Multipurpose Cash Grant - P3,500.00;410;41001;Bilibinwang;Finished;500;families
+;PRC;WASH;WASH;Water;410;41003;Lucban;Finished;500;liters
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;500;liters
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;500;liters
+;PRC;WASH;WASH;Water;410;41021;;Finished;500;liters
+;PRC;WASH;WASH;Hygiene Promotion;410;41001;Banyaga;Finished;501;individuals
+;Korea;Relief;Non Food Items;Hygiene Kit (Standard);410;41012;Poblacion ;Finished;508;families
+;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;511;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41014;Marawoy;Finished;528;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;San Isidro;Finished;550;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;Balayan;Finished;550;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41025;Poblacion;Finished;568;individuals
+411;Nueva Ecija;Relief;Food Items;Food Items (Standard);410;41025;Poblacion;Finished;569;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41025;Poblacion ;Finished;569;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41018;;Finished;575;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;421;42119;;Finished;600;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);421;42119;;Finished;600;individuals
+;PRC;WASH;WASH;Water;410;41019;;Finished;650;liters
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41034;;Finished;685;individuals
+123;PRC;Welfare;Ready-to-Eat;Bread;410;41031;;Finished;690;families
+424;PRC;Welfare;Ready-to-Eat;Ham;410;41031;Poblacion Brgy 6;Finished;690;families
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41031;Poblacion 6;Finished;695;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Libjo;Finished;700;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Sta. Rita;Finished;700;individuals
+;PRC;Health;Health;Mask (Surgical/Disposable);421;42119;;Finished;700;individuals
+;PRC;WASH;WASH;Hygiene Promotion;410;41029;Laguile;Finished;721;individuals
+;PRC;WASH;WASH;Water;410;41003;Malalay;Finished;725;liters
+;PRC;Welfare;Welfare;I'm Alive;410;41017;Poblacion;Finished;745;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41017;;Finished;772;individuals
+;IFRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41006;Poblacion;Finished;818;families
+;;WASH;Non Food Items;Jerry Can (10L);410;41006;;Finished;818;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Blankets);410;41006;;Finished;818;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;41006;;Finished;818;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;41006;;Finished;818;families
+;PRC;Health;Health;Mask (Surgical/Disposable);421;42119;;Finished;900;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41006;Poblacion;Finished;926;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41031;;Finished;935;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41031;;Finished;935;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;940;individuals
+;IFRC;Relief;Non Food Items;Hygiene Kit (Standard);410;41005;Bolbok;Finished;959;families
+;;WASH;Non Food Items;Jerry Can (10L);410;41005;Bolbok;Finished;959;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Blankets);410;41005;Bolbok;Finished;959;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Mosquito Nets);410;41005;Bolbok;Finished;959;families
+;IFRC;Relief;Non Food Items;Sleeping Kit (Plastic Mats);410;41005;Bolbok;Finished;959;families
+;PRC;WASH;WASH;Hygiene Promotion;410;41012;Arumahan;Finished;980;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41008;;Finished;986;individuals
+113;PRC;Welfare;Ready-to-Eat;Bread;410;41008;;Finished;1,000;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41012;Arumahan;Finished;1,000;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41029;Laguile;Finished;1,000;individuals
+;Procter & Gamble;Relief;Non Food Items;Hygiene Kit (Standard);410;41012;Arumahan;Finished;1,000;families
+;Procter & Gamble;Relief;Non Food Items;Hygiene Kit (Standard);410;41029;Laguile;Finished;1,000;families
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41031;;Finished;1,000;individuals
+;PRC;WASH;WASH;Water;410;41021;;Finished;1,000;liters
+;PRC;WASH;WASH;Water;410;41026;;Finished;1,000;liters
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Bolbok;Finished;1,020;individuals
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;1,075;liters
+106;PRC;Welfare;Ready-to-Eat;Bread;421;42101;;Finished;1,128;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41018;;Finished;1,193;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41018;;Finished;1,218;individuals
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41014;;Finished;1,270;individuals
+;PRC;WASH;WASH;Water;410;41019;Pantalan;Finished;1,275;liters
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41006;;Finished;1,324;individuals
+;PRC;Welfare;Welfare;I'm Alive;410;41006;Poblacion;Finished;1,398;individuals
+;PRC;Welfare;PSS;Psychosocial First Aid;410;41006;;Finished;1,398;individuals
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;1,423;liters
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41005;Cuta;Finished;1,500;individuals
+;PRC;WASH;WASH;Water;410;41018;;Finished;1,500;liters
+;PRC;WASH;WASH;Water;410;41005;Bolbok;Finished;1,825;liters
+;PRC;Welfare;Ready-to-Eat;Hotmeals;410;41001;Subic;Finished;2,000;individuals
+;PRC;WASH;WASH;Water;410;41007;Poblacion 2;Finished;2,000;liters
+;PRC;WASH;WASH;Water;410;41030;Tumaway;Finished;2,500;liters
+;PRC;WASH;WASH;Water;410;41030;Tumaway;Finished;2,500;liters
+;PRC;WASH;WASH;Water;410;41019;;Finished;2,800;liters
+;PRC;WASH;WASH;Water;410;41003;;Finished;2,950;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;3,000;liters
+;PRC;Health;Health;Mask (Surgical/Disposable);410;41006;Poblacion;Finished;3,076;individuals
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;5,000;liters
+;PRC;WASH;WASH;Water;410;41012;Arumahan;Finished;7,000;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41010;Talaibon;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41012;Arumahan;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;12,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;17,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;24,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;24,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;24,000;liters
+;PRC;WASH;WASH;Water;410;41012;Talaga;Finished;36,000;liters
+269;PRC;Health;Safety;First Aid Station;410;41005;Bolbok;Finished;1;unit
+270;PRC;Health;Safety;First Aid Station;410;41005;Kumintang Ibaba;Finished;1;unit
+271;PRC;Health;Safety;First Aid Station;410;41005;Bolbok;Finished;1;unit
+272;PRC;Health;Safety;First Aid Station;410;41005;Poblacion;Finished;1;unit
+282;PRC;Health;Safety;First Aid Station;410;41006;Poblacion;Finished;1;unit
+283;PRC;Health;Safety;First Aid Station;410;41006;Poblacion;Finished;1;unit
+293;PRC;Health;Safety;First Aid Station;410;41014;Marawoy;Finished;1;unit
+298;PRC;Health;Safety;First Aid Station;410;41017;Poblacion;Finished;1;unit
+;PRC;Logistics;Welfare;Hotmeals Van;410;41005;Kumintang Ibaba;Finished;4;units
+;PRC;Logistics;Emergency Response Unit;Humvee;410;41005;Kumintang Ibaba;Finished;1;unit
+;PRC;Logistics;Emergency Response Unit;Land Cruiser;410;41005;Kumintang Ibaba;Finished;1;unit
+;PRC;Logistics;Health;Mask (N95);410;41005;Kumintang Ibaba;Finished;1,800;units
+;PRC;Logistics;Health;Mask (Surgical/Disposable);410;41005;Kumintang Ibaba;Finished;5,000;units
+;PRC;Logistics;Health;Mask (Surgical/Disposable);421;;;Finished;2,500;units
+;PRC;Logistics;Health;Mask (Surgical/Disposable);434;;;Finished;1,500;units
+;PRC;Logistics;WASH;Portable Toilets;410;41005;Kumintang Ibaba;Finished;15;units
+;PRC;Logistics;WASH;Portable Toilets;410;41005;Kumintang Ibaba;Finished;10;units
+;PRC;Logistics;Emergency Response Unit;Rescue Truck;410;41005;Kumintang Ibaba;Finished;1;unit
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
